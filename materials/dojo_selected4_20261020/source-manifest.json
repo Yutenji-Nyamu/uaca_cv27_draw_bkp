@@ -1,0 +1,978 @@
+{
+  "selected": [
+    {
+      "id": "D09",
+      "task": "stack_blocks",
+      "episode_id": 72,
+      "directory": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072",
+      "videos": {
+        "cam_head": {
+          "frames": 460,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000072_cam_head_success.mp4"
+        },
+        "cam_left_wrist": {
+          "frames": 460,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000072_cam_left_wrist_success.mp4"
+        },
+        "cam_right_wrist": {
+          "frames": 460,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000072_cam_right_wrist_success.mp4"
+        }
+      },
+      "source_layout": {
+        "layout_seed": 0,
+        "source_layout_id": 24,
+        "scene_layout": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/0/stack_blocks_24.json",
+        "episode_id": 72,
+        "repeat": 0
+      },
+      "native_result": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/_result.json"
+    },
+    {
+      "id": "D10",
+      "task": "stack_blocks",
+      "episode_id": 26,
+      "directory": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026",
+      "videos": {
+        "cam_head": {
+          "frames": 268,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000026_cam_head_success.mp4"
+        },
+        "cam_left_wrist": {
+          "frames": 268,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000026_cam_left_wrist_success.mp4"
+        },
+        "cam_right_wrist": {
+          "frames": 268,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000026_cam_right_wrist_success.mp4"
+        }
+      },
+      "source_layout": {
+        "layout_seed": 2,
+        "source_layout_id": 8,
+        "scene_layout": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/2/stack_blocks_8.json",
+        "episode_id": 26,
+        "repeat": 0
+      },
+      "native_result": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/_result.json"
+    },
+    {
+      "id": "D11",
+      "task": "stack_bowls",
+      "episode_id": 53,
+      "directory": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053",
+      "videos": {
+        "cam_head": {
+          "frames": 417,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000053_cam_head_success.mp4"
+        },
+        "cam_left_wrist": {
+          "frames": 417,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000053_cam_left_wrist_success.mp4"
+        },
+        "cam_right_wrist": {
+          "frames": 417,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000053_cam_right_wrist_success.mp4"
+        }
+      },
+      "source_layout": {
+        "layout_seed": 2,
+        "source_layout_id": 17,
+        "scene_layout": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/2/stack_bowls_17.json",
+        "episode_id": 53,
+        "repeat": 0
+      },
+      "native_result": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/_result.json"
+    },
+    {
+      "id": "D12",
+      "task": "stack_bowls",
+      "episode_id": 60,
+      "directory": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060",
+      "videos": {
+        "cam_head": {
+          "frames": 642,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000060_cam_head_success.mp4"
+        },
+        "cam_left_wrist": {
+          "frames": 642,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000060_cam_left_wrist_success.mp4"
+        },
+        "cam_right_wrist": {
+          "frames": 642,
+          "width": 640,
+          "height": 480,
+          "fps": 25,
+          "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000060_cam_right_wrist_success.mp4"
+        }
+      },
+      "source_layout": {
+        "layout_seed": 0,
+        "source_layout_id": 20,
+        "scene_layout": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/0/stack_bowls_20.json",
+        "episode_id": 60,
+        "repeat": 0
+      },
+      "native_result": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/_result.json"
+    }
+  ],
+  "source_host": "sz3",
+  "files": [
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/actions.jsonl",
+      "path": "D09/raw/actions.jsonl",
+      "bytes": 413210
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/episode.json",
+      "path": "D09/raw/episode.json",
+      "bytes": 1756
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/frames.jsonl",
+      "path": "D09/raw/frames.jsonl",
+      "bytes": 679489
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0000.json",
+      "path": "D09/raw/query_0000.json",
+      "bytes": 669
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0000.npz",
+      "path": "D09/raw/query_0000.npz",
+      "bytes": 24355
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0000_obs.npz",
+      "path": "D09/raw/query_0000_obs.npz",
+      "bytes": 1732568
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0001.json",
+      "path": "D09/raw/query_0001.json",
+      "bytes": 670
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0001.npz",
+      "path": "D09/raw/query_0001.npz",
+      "bytes": 24375
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0001_obs.npz",
+      "path": "D09/raw/query_0001_obs.npz",
+      "bytes": 1577017
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0002.json",
+      "path": "D09/raw/query_0002.json",
+      "bytes": 672
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0002.npz",
+      "path": "D09/raw/query_0002.npz",
+      "bytes": 24247
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0002_obs.npz",
+      "path": "D09/raw/query_0002_obs.npz",
+      "bytes": 1480573
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0003.json",
+      "path": "D09/raw/query_0003.json",
+      "bytes": 672
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0003.npz",
+      "path": "D09/raw/query_0003.npz",
+      "bytes": 24176
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0003_obs.npz",
+      "path": "D09/raw/query_0003_obs.npz",
+      "bytes": 1554194
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0004.json",
+      "path": "D09/raw/query_0004.json",
+      "bytes": 671
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0004.npz",
+      "path": "D09/raw/query_0004.npz",
+      "bytes": 24251
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0004_obs.npz",
+      "path": "D09/raw/query_0004_obs.npz",
+      "bytes": 1476079
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0005.json",
+      "path": "D09/raw/query_0005.json",
+      "bytes": 671
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0005.npz",
+      "path": "D09/raw/query_0005.npz",
+      "bytes": 24328
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0005_obs.npz",
+      "path": "D09/raw/query_0005_obs.npz",
+      "bytes": 1558195
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0006.json",
+      "path": "D09/raw/query_0006.json",
+      "bytes": 671
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0006.npz",
+      "path": "D09/raw/query_0006.npz",
+      "bytes": 24223
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0006_obs.npz",
+      "path": "D09/raw/query_0006_obs.npz",
+      "bytes": 1541774
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0007.json",
+      "path": "D09/raw/query_0007.json",
+      "bytes": 672
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0007.npz",
+      "path": "D09/raw/query_0007.npz",
+      "bytes": 24413
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0007_obs.npz",
+      "path": "D09/raw/query_0007_obs.npz",
+      "bytes": 1525345
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0008.json",
+      "path": "D09/raw/query_0008.json",
+      "bytes": 672
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0008.npz",
+      "path": "D09/raw/query_0008.npz",
+      "bytes": 24325
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0008_obs.npz",
+      "path": "D09/raw/query_0008_obs.npz",
+      "bytes": 1572527
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0009.json",
+      "path": "D09/raw/query_0009.json",
+      "bytes": 671
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0009.npz",
+      "path": "D09/raw/query_0009.npz",
+      "bytes": 24121
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00072/query_0009_obs.npz",
+      "path": "D09/raw/query_0009_obs.npz",
+      "bytes": 1554432
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000072_cam_head_success.mp4",
+      "path": "D09/videos/cam_head.mp4",
+      "bytes": 1174394
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000072_cam_left_wrist_success.mp4",
+      "path": "D09/videos/cam_left_wrist.mp4",
+      "bytes": 2026400
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000072_cam_right_wrist_success.mp4",
+      "path": "D09/videos/cam_right_wrist.mp4",
+      "bytes": 1568517
+    },
+    {
+      "source": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/0/stack_blocks_24.json",
+      "path": "D09/scene_layout.json",
+      "bytes": 5271
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/_result.json",
+      "path": "runs/g6-reset-stack_blocks/native_result.json",
+      "bytes": 10809
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/commands.json",
+      "path": "runs/g6-reset-stack_blocks/commands.json",
+      "bytes": 1451
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/config.json",
+      "path": "runs/g6-reset-stack_blocks/config.json",
+      "bytes": 32426
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/main-parity.json",
+      "path": "runs/g6-reset-stack_blocks/main-parity.json",
+      "bytes": 152
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/policy.log",
+      "path": "runs/g6-reset-stack_blocks/policy.log",
+      "bytes": 2231
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/progress.json",
+      "path": "runs/g6-reset-stack_blocks/progress.json",
+      "bytes": 320
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/result.json",
+      "path": "runs/g6-reset-stack_blocks/result.json",
+      "bytes": 224
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/sim.log",
+      "path": "runs/g6-reset-stack_blocks/sim.log",
+      "bytes": 3150726
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/started.json",
+      "path": "runs/g6-reset-stack_blocks/started.json",
+      "bytes": 131
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/validation.json",
+      "path": "runs/g6-reset-stack_blocks/validation.json",
+      "bytes": 41749
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/validation.log",
+      "path": "runs/g6-reset-stack_blocks/validation.log",
+      "bytes": 34484
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/actions.jsonl",
+      "path": "D10/raw/actions.jsonl",
+      "bytes": 239379
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/episode.json",
+      "path": "D10/raw/episode.json",
+      "bytes": 1753
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/frames.jsonl",
+      "path": "D10/raw/frames.jsonl",
+      "bytes": 392692
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0000.json",
+      "path": "D10/raw/query_0000.json",
+      "bytes": 666
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0000.npz",
+      "path": "D10/raw/query_0000.npz",
+      "bytes": 24331
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0000_obs.npz",
+      "path": "D10/raw/query_0000_obs.npz",
+      "bytes": 1694138
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0001.json",
+      "path": "D10/raw/query_0001.json",
+      "bytes": 667
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0001.npz",
+      "path": "D10/raw/query_0001.npz",
+      "bytes": 24357
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0001_obs.npz",
+      "path": "D10/raw/query_0001_obs.npz",
+      "bytes": 1540126
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0002.json",
+      "path": "D10/raw/query_0002.json",
+      "bytes": 669
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0002.npz",
+      "path": "D10/raw/query_0002.npz",
+      "bytes": 24192
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0002_obs.npz",
+      "path": "D10/raw/query_0002_obs.npz",
+      "bytes": 1515552
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0003.json",
+      "path": "D10/raw/query_0003.json",
+      "bytes": 669
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0003.npz",
+      "path": "D10/raw/query_0003.npz",
+      "bytes": 24373
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0003_obs.npz",
+      "path": "D10/raw/query_0003_obs.npz",
+      "bytes": 1554596
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0004.json",
+      "path": "D10/raw/query_0004.json",
+      "bytes": 668
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0004.npz",
+      "path": "D10/raw/query_0004.npz",
+      "bytes": 24326
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0004_obs.npz",
+      "path": "D10/raw/query_0004_obs.npz",
+      "bytes": 1521407
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0005.json",
+      "path": "D10/raw/query_0005.json",
+      "bytes": 668
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0005.npz",
+      "path": "D10/raw/query_0005.npz",
+      "bytes": 24277
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-reset-stack_blocks/episodes/layout_00026/query_0005_obs.npz",
+      "path": "D10/raw/query_0005_obs.npz",
+      "bytes": 1527081
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000026_cam_head_success.mp4",
+      "path": "D10/videos/cam_head.mp4",
+      "bytes": 742510
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000026_cam_left_wrist_success.mp4",
+      "path": "D10/videos/cam_left_wrist.mp4",
+      "bytes": 874561
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000026_cam_right_wrist_success.mp4",
+      "path": "D10/videos/cam_right_wrist.mp4",
+      "bytes": 1190393
+    },
+    {
+      "source": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/2/stack_blocks_8.json",
+      "path": "D10/scene_layout.json",
+      "bytes": 5270
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/actions.jsonl",
+      "path": "D11/raw/actions.jsonl",
+      "bytes": 369546
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/episode.json",
+      "path": "D11/raw/episode.json",
+      "bytes": 1714
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/frames.jsonl",
+      "path": "D11/raw/frames.jsonl",
+      "bytes": 603321
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0000.json",
+      "path": "D11/raw/query_0000.json",
+      "bytes": 643
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0000.npz",
+      "path": "D11/raw/query_0000.npz",
+      "bytes": 24393
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0000_obs.npz",
+      "path": "D11/raw/query_0000_obs.npz",
+      "bytes": 1749080
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0001.json",
+      "path": "D11/raw/query_0001.json",
+      "bytes": 644
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0001.npz",
+      "path": "D11/raw/query_0001.npz",
+      "bytes": 24263
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0001_obs.npz",
+      "path": "D11/raw/query_0001_obs.npz",
+      "bytes": 1620660
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0002.json",
+      "path": "D11/raw/query_0002.json",
+      "bytes": 646
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0002.npz",
+      "path": "D11/raw/query_0002.npz",
+      "bytes": 24231
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0002_obs.npz",
+      "path": "D11/raw/query_0002_obs.npz",
+      "bytes": 1647281
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0003.json",
+      "path": "D11/raw/query_0003.json",
+      "bytes": 646
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0003.npz",
+      "path": "D11/raw/query_0003.npz",
+      "bytes": 24597
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0003_obs.npz",
+      "path": "D11/raw/query_0003_obs.npz",
+      "bytes": 1649953
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0004.json",
+      "path": "D11/raw/query_0004.json",
+      "bytes": 645
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0004.npz",
+      "path": "D11/raw/query_0004.npz",
+      "bytes": 24375
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0004_obs.npz",
+      "path": "D11/raw/query_0004_obs.npz",
+      "bytes": 1562049
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0005.json",
+      "path": "D11/raw/query_0005.json",
+      "bytes": 645
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0005.npz",
+      "path": "D11/raw/query_0005.npz",
+      "bytes": 24438
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0005_obs.npz",
+      "path": "D11/raw/query_0005_obs.npz",
+      "bytes": 1581263
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0006.json",
+      "path": "D11/raw/query_0006.json",
+      "bytes": 646
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0006.npz",
+      "path": "D11/raw/query_0006.npz",
+      "bytes": 24413
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0006_obs.npz",
+      "path": "D11/raw/query_0006_obs.npz",
+      "bytes": 1568539
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0007.json",
+      "path": "D11/raw/query_0007.json",
+      "bytes": 646
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0007.npz",
+      "path": "D11/raw/query_0007.npz",
+      "bytes": 24156
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0007_obs.npz",
+      "path": "D11/raw/query_0007_obs.npz",
+      "bytes": 1572741
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0008.json",
+      "path": "D11/raw/query_0008.json",
+      "bytes": 646
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0008.npz",
+      "path": "D11/raw/query_0008.npz",
+      "bytes": 24308
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00053/query_0008_obs.npz",
+      "path": "D11/raw/query_0008_obs.npz",
+      "bytes": 1587438
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000053_cam_head_success.mp4",
+      "path": "D11/videos/cam_head.mp4",
+      "bytes": 886344
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000053_cam_left_wrist_success.mp4",
+      "path": "D11/videos/cam_left_wrist.mp4",
+      "bytes": 1227501
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000053_cam_right_wrist_success.mp4",
+      "path": "D11/videos/cam_right_wrist.mp4",
+      "bytes": 1412745
+    },
+    {
+      "source": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/2/stack_bowls_17.json",
+      "path": "D11/scene_layout.json",
+      "bytes": 5250
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/_result.json",
+      "path": "runs/g6-stack_bowls/native_result.json",
+      "bytes": 10696
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/commands.json",
+      "path": "runs/g6-stack_bowls/commands.json",
+      "bytes": 1490
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/config.json",
+      "path": "runs/g6-stack_bowls/config.json",
+      "bytes": 32292
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/main-parity.json",
+      "path": "runs/g6-stack_bowls/main-parity.json",
+      "bytes": 152
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/policy.log",
+      "path": "runs/g6-stack_bowls/policy.log",
+      "bytes": 2231
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/progress.json",
+      "path": "runs/g6-stack_bowls/progress.json",
+      "bytes": 320
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/result.json",
+      "path": "runs/g6-stack_bowls/result.json",
+      "bytes": 224
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/sim.log",
+      "path": "runs/g6-stack_bowls/sim.log",
+      "bytes": 3405862
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/started.json",
+      "path": "runs/g6-stack_bowls/started.json",
+      "bytes": 132
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/validation.json",
+      "path": "runs/g6-stack_bowls/validation.json",
+      "bytes": 40665
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/validation.log",
+      "path": "runs/g6-stack_bowls/validation.log",
+      "bytes": 33400
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/actions.jsonl",
+      "path": "D12/raw/actions.jsonl",
+      "bytes": 571294
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/episode.json",
+      "path": "D12/raw/episode.json",
+      "bytes": 1715
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/frames.jsonl",
+      "path": "D12/raw/frames.jsonl",
+      "bytes": 932148
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0000.json",
+      "path": "D12/raw/query_0000.json",
+      "bytes": 645
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0000.npz",
+      "path": "D12/raw/query_0000.npz",
+      "bytes": 24437
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0000_obs.npz",
+      "path": "D12/raw/query_0000_obs.npz",
+      "bytes": 1739292
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0001.json",
+      "path": "D12/raw/query_0001.json",
+      "bytes": 645
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0001.npz",
+      "path": "D12/raw/query_0001.npz",
+      "bytes": 24197
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0001_obs.npz",
+      "path": "D12/raw/query_0001_obs.npz",
+      "bytes": 1580588
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0002.json",
+      "path": "D12/raw/query_0002.json",
+      "bytes": 647
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0002.npz",
+      "path": "D12/raw/query_0002.npz",
+      "bytes": 24290
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0002_obs.npz",
+      "path": "D12/raw/query_0002_obs.npz",
+      "bytes": 1526750
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0003.json",
+      "path": "D12/raw/query_0003.json",
+      "bytes": 647
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0003.npz",
+      "path": "D12/raw/query_0003.npz",
+      "bytes": 24135
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0003_obs.npz",
+      "path": "D12/raw/query_0003_obs.npz",
+      "bytes": 1600718
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0004.json",
+      "path": "D12/raw/query_0004.json",
+      "bytes": 647
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0004.npz",
+      "path": "D12/raw/query_0004.npz",
+      "bytes": 24405
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0004_obs.npz",
+      "path": "D12/raw/query_0004_obs.npz",
+      "bytes": 1543308
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0005.json",
+      "path": "D12/raw/query_0005.json",
+      "bytes": 646
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0005.npz",
+      "path": "D12/raw/query_0005.npz",
+      "bytes": 24457
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0005_obs.npz",
+      "path": "D12/raw/query_0005_obs.npz",
+      "bytes": 1583430
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0006.json",
+      "path": "D12/raw/query_0006.json",
+      "bytes": 646
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0006.npz",
+      "path": "D12/raw/query_0006.npz",
+      "bytes": 24336
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0006_obs.npz",
+      "path": "D12/raw/query_0006_obs.npz",
+      "bytes": 1530296
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0007.json",
+      "path": "D12/raw/query_0007.json",
+      "bytes": 646
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0007.npz",
+      "path": "D12/raw/query_0007.npz",
+      "bytes": 24331
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0007_obs.npz",
+      "path": "D12/raw/query_0007_obs.npz",
+      "bytes": 1458613
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0008.json",
+      "path": "D12/raw/query_0008.json",
+      "bytes": 647
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0008.npz",
+      "path": "D12/raw/query_0008.npz",
+      "bytes": 24385
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0008_obs.npz",
+      "path": "D12/raw/query_0008_obs.npz",
+      "bytes": 1572987
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0009.json",
+      "path": "D12/raw/query_0009.json",
+      "bytes": 646
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0009.npz",
+      "path": "D12/raw/query_0009.npz",
+      "bytes": 24360
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0009_obs.npz",
+      "path": "D12/raw/query_0009_obs.npz",
+      "bytes": 1486834
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0010.json",
+      "path": "D12/raw/query_0010.json",
+      "bytes": 648
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0010.npz",
+      "path": "D12/raw/query_0010.npz",
+      "bytes": 24356
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0010_obs.npz",
+      "path": "D12/raw/query_0010_obs.npz",
+      "bytes": 1593197
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0011.json",
+      "path": "D12/raw/query_0011.json",
+      "bytes": 648
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0011.npz",
+      "path": "D12/raw/query_0011.npz",
+      "bytes": 24377
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0011_obs.npz",
+      "path": "D12/raw/query_0011_obs.npz",
+      "bytes": 1518455
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0012.json",
+      "path": "D12/raw/query_0012.json",
+      "bytes": 647
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0012.npz",
+      "path": "D12/raw/query_0012.npz",
+      "bytes": 24295
+    },
+    {
+      "source": "/data/chenyiteng/results/dojo-u-video/20261018-v1/tasks/g6-stack_bowls/episodes/layout_00060/query_0012_obs.npz",
+      "path": "D12/raw/query_0012_obs.npz",
+      "bytes": 1558142
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000060_cam_head_success.mp4",
+      "path": "D12/videos/cam_head.mp4",
+      "bytes": 1217866
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000060_cam_left_wrist_success.mp4",
+      "path": "D12/videos/cam_left_wrist.mp4",
+      "bytes": 1790352
+    },
+    {
+      "source": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_bowls/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-stack_bowls/episode_0000060_cam_right_wrist_success.mp4",
+      "path": "D12/videos/cam_right_wrist.mp4",
+      "bytes": 1883124
+    },
+    {
+      "source": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/0/stack_bowls_20.json",
+      "path": "D12/scene_layout.json",
+      "bytes": 5245
+    }
+  ],
+  "file_count": 164,
+  "bytes": 87732280,
+  "scope_note": "Four selected episodes, native videos, layouts, and experiment logs/configuration; machine process/device inventory omitted."
+}
