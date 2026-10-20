@@ -1,0 +1,1 @@
+已获得4条可用于绘图的Dojo π0.5成功轨迹：叠方块D09（episode 72）、D10（26），叠碗D11（53）、D12（60）。全部材料保存在[bkp仓库](https://github.com/Yutenji-Nyamu/uaca_cv27_draw_bkp/tree/main/materials/dojo_selected4_20261020)：完整逐动作U、三相机完整视频、同回合动作—帧映射、原始观测/动作端点/噪声，以及已选真实截图和SVG/PNG曲线；可直接沿用原U图的样式绘制。

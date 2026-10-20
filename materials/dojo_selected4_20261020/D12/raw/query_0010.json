@@ -1,0 +1,22 @@
+{
+  "task": "stack_bowls",
+  "layout": 60,
+  "slot": 10,
+  "model_seed": 0,
+  "run_id": "g6-stack_bowls",
+  "action_before": 500,
+  "episode_id": 60,
+  "source_layout": {
+    "layout_seed": 0,
+    "source_layout_id": 20,
+    "scene_layout": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/0/stack_bowls_20.json",
+    "episode_id": 60,
+    "repeat": 0
+  },
+  "query": 10,
+  "prompt": "Stack the three bowls together.",
+  "seconds": 0.29633551370352507,
+  "rng_exact": true,
+  "u_coordinates": "normalized model first 14 real coordinates",
+  "noise": "same complete JAX initial noise, M10 vs complete M5"
+}

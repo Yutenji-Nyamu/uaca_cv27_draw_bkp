@@ -1,0 +1,632 @@
+{
+  "success_rate": 0.664,
+  "eval_time": 125,
+  "score": 71.08,
+  "details": {
+    "0": {
+      "layout_id": 0,
+      "success": true,
+      "score": 1.0
+    },
+    "1": {
+      "layout_id": 1,
+      "success": false,
+      "score": 0.15
+    },
+    "2": {
+      "layout_id": 2,
+      "success": false,
+      "score": 0.15
+    },
+    "3": {
+      "layout_id": 3,
+      "success": false,
+      "score": 0.15
+    },
+    "4": {
+      "layout_id": 4,
+      "success": true,
+      "score": 1.0
+    },
+    "5": {
+      "layout_id": 5,
+      "success": true,
+      "score": 1.0
+    },
+    "6": {
+      "layout_id": 6,
+      "success": true,
+      "score": 1.0
+    },
+    "7": {
+      "layout_id": 7,
+      "success": true,
+      "score": 1.0
+    },
+    "8": {
+      "layout_id": 8,
+      "success": true,
+      "score": 1.0
+    },
+    "9": {
+      "layout_id": 9,
+      "success": true,
+      "score": 1.0
+    },
+    "10": {
+      "layout_id": 10,
+      "success": false,
+      "score": 0.15
+    },
+    "11": {
+      "layout_id": 11,
+      "success": false,
+      "score": 0.15
+    },
+    "12": {
+      "layout_id": 12,
+      "success": true,
+      "score": 1.0
+    },
+    "13": {
+      "layout_id": 13,
+      "success": true,
+      "score": 1.0
+    },
+    "14": {
+      "layout_id": 14,
+      "success": false,
+      "score": 0.15
+    },
+    "15": {
+      "layout_id": 15,
+      "success": false,
+      "score": 0.15
+    },
+    "16": {
+      "layout_id": 16,
+      "success": true,
+      "score": 1.0
+    },
+    "17": {
+      "layout_id": 17,
+      "success": true,
+      "score": 1.0
+    },
+    "18": {
+      "layout_id": 18,
+      "success": false,
+      "score": 0.0
+    },
+    "19": {
+      "layout_id": 19,
+      "success": false,
+      "score": 0.15
+    },
+    "20": {
+      "layout_id": 20,
+      "success": false,
+      "score": 0.15
+    },
+    "21": {
+      "layout_id": 21,
+      "success": true,
+      "score": 1.0
+    },
+    "22": {
+      "layout_id": 22,
+      "success": true,
+      "score": 1.0
+    },
+    "23": {
+      "layout_id": 23,
+      "success": false,
+      "score": 0.15
+    },
+    "24": {
+      "layout_id": 24,
+      "success": false,
+      "score": 0.15
+    },
+    "25": {
+      "layout_id": 25,
+      "success": false,
+      "score": 0.15
+    },
+    "26": {
+      "layout_id": 26,
+      "success": false,
+      "score": 0.15
+    },
+    "27": {
+      "layout_id": 27,
+      "success": false,
+      "score": 0.15
+    },
+    "28": {
+      "layout_id": 28,
+      "success": true,
+      "score": 1.0
+    },
+    "29": {
+      "layout_id": 29,
+      "success": false,
+      "score": 0.15
+    },
+    "30": {
+      "layout_id": 30,
+      "success": false,
+      "score": 0.15
+    },
+    "31": {
+      "layout_id": 31,
+      "success": true,
+      "score": 1.0
+    },
+    "32": {
+      "layout_id": 32,
+      "success": true,
+      "score": 1.0
+    },
+    "33": {
+      "layout_id": 33,
+      "success": false,
+      "score": 0.15
+    },
+    "34": {
+      "layout_id": 34,
+      "success": true,
+      "score": 1.0
+    },
+    "35": {
+      "layout_id": 35,
+      "success": true,
+      "score": 1.0
+    },
+    "36": {
+      "layout_id": 36,
+      "success": true,
+      "score": 1.0
+    },
+    "37": {
+      "layout_id": 37,
+      "success": true,
+      "score": 1.0
+    },
+    "38": {
+      "layout_id": 38,
+      "success": true,
+      "score": 1.0
+    },
+    "39": {
+      "layout_id": 39,
+      "success": false,
+      "score": 0.15
+    },
+    "40": {
+      "layout_id": 40,
+      "success": true,
+      "score": 1.0
+    },
+    "41": {
+      "layout_id": 41,
+      "success": false,
+      "score": 0.15
+    },
+    "42": {
+      "layout_id": 42,
+      "success": true,
+      "score": 1.0
+    },
+    "43": {
+      "layout_id": 43,
+      "success": true,
+      "score": 1.0
+    },
+    "44": {
+      "layout_id": 44,
+      "success": true,
+      "score": 1.0
+    },
+    "45": {
+      "layout_id": 45,
+      "success": true,
+      "score": 1.0
+    },
+    "46": {
+      "layout_id": 46,
+      "success": true,
+      "score": 1.0
+    },
+    "47": {
+      "layout_id": 47,
+      "success": true,
+      "score": 1.0
+    },
+    "48": {
+      "layout_id": 48,
+      "success": false,
+      "score": 0.15
+    },
+    "49": {
+      "layout_id": 49,
+      "success": true,
+      "score": 1.0
+    },
+    "50": {
+      "layout_id": 50,
+      "success": false,
+      "score": 0.15
+    },
+    "51": {
+      "layout_id": 51,
+      "success": false,
+      "score": 0.15
+    },
+    "52": {
+      "layout_id": 52,
+      "success": true,
+      "score": 1.0
+    },
+    "53": {
+      "layout_id": 53,
+      "success": true,
+      "score": 1.0
+    },
+    "54": {
+      "layout_id": 54,
+      "success": true,
+      "score": 1.0
+    },
+    "55": {
+      "layout_id": 55,
+      "success": true,
+      "score": 1.0
+    },
+    "56": {
+      "layout_id": 56,
+      "success": false,
+      "score": 0.15
+    },
+    "57": {
+      "layout_id": 57,
+      "success": true,
+      "score": 1.0
+    },
+    "58": {
+      "layout_id": 58,
+      "success": false,
+      "score": 0.15
+    },
+    "59": {
+      "layout_id": 59,
+      "success": false,
+      "score": 0.15
+    },
+    "60": {
+      "layout_id": 60,
+      "success": true,
+      "score": 1.0
+    },
+    "61": {
+      "layout_id": 61,
+      "success": false,
+      "score": 0.15
+    },
+    "62": {
+      "layout_id": 62,
+      "success": true,
+      "score": 1.0
+    },
+    "63": {
+      "layout_id": 63,
+      "success": true,
+      "score": 1.0
+    },
+    "64": {
+      "layout_id": 64,
+      "success": true,
+      "score": 1.0
+    },
+    "65": {
+      "layout_id": 65,
+      "success": true,
+      "score": 1.0
+    },
+    "66": {
+      "layout_id": 66,
+      "success": true,
+      "score": 1.0
+    },
+    "67": {
+      "layout_id": 67,
+      "success": true,
+      "score": 1.0
+    },
+    "68": {
+      "layout_id": 68,
+      "success": false,
+      "score": 0.0
+    },
+    "69": {
+      "layout_id": 69,
+      "success": true,
+      "score": 1.0
+    },
+    "70": {
+      "layout_id": 70,
+      "success": false,
+      "score": 0.15
+    },
+    "71": {
+      "layout_id": 71,
+      "success": true,
+      "score": 1.0
+    },
+    "72": {
+      "layout_id": 72,
+      "success": true,
+      "score": 1.0
+    },
+    "73": {
+      "layout_id": 73,
+      "success": true,
+      "score": 1.0
+    },
+    "74": {
+      "layout_id": 74,
+      "success": false,
+      "score": 0.15
+    },
+    "75": {
+      "layout_id": 75,
+      "success": true,
+      "score": 1.0
+    },
+    "76": {
+      "layout_id": 76,
+      "success": true,
+      "score": 1.0
+    },
+    "77": {
+      "layout_id": 77,
+      "success": false,
+      "score": 0.15
+    },
+    "78": {
+      "layout_id": 78,
+      "success": true,
+      "score": 1.0
+    },
+    "79": {
+      "layout_id": 79,
+      "success": true,
+      "score": 1.0
+    },
+    "80": {
+      "layout_id": 80,
+      "success": false,
+      "score": 0.15
+    },
+    "81": {
+      "layout_id": 81,
+      "success": false,
+      "score": 0.15
+    },
+    "82": {
+      "layout_id": 82,
+      "success": true,
+      "score": 1.0
+    },
+    "83": {
+      "layout_id": 83,
+      "success": true,
+      "score": 1.0
+    },
+    "84": {
+      "layout_id": 84,
+      "success": true,
+      "score": 1.0
+    },
+    "85": {
+      "layout_id": 85,
+      "success": true,
+      "score": 1.0
+    },
+    "86": {
+      "layout_id": 86,
+      "success": false,
+      "score": 0.15
+    },
+    "87": {
+      "layout_id": 87,
+      "success": true,
+      "score": 1.0
+    },
+    "88": {
+      "layout_id": 88,
+      "success": false,
+      "score": 0.15
+    },
+    "89": {
+      "layout_id": 89,
+      "success": true,
+      "score": 1.0
+    },
+    "90": {
+      "layout_id": 90,
+      "success": true,
+      "score": 1.0
+    },
+    "91": {
+      "layout_id": 91,
+      "success": true,
+      "score": 1.0
+    },
+    "92": {
+      "layout_id": 92,
+      "success": false,
+      "score": 0.15
+    },
+    "93": {
+      "layout_id": 93,
+      "success": true,
+      "score": 1.0
+    },
+    "94": {
+      "layout_id": 94,
+      "success": false,
+      "score": 0.15
+    },
+    "95": {
+      "layout_id": 95,
+      "success": true,
+      "score": 1.0
+    },
+    "96": {
+      "layout_id": 96,
+      "success": true,
+      "score": 1.0
+    },
+    "97": {
+      "layout_id": 97,
+      "success": true,
+      "score": 1.0
+    },
+    "98": {
+      "layout_id": 98,
+      "success": true,
+      "score": 1.0
+    },
+    "99": {
+      "layout_id": 99,
+      "success": true,
+      "score": 1.0
+    },
+    "100": {
+      "layout_id": 100,
+      "success": true,
+      "score": 1.0
+    },
+    "101": {
+      "layout_id": 101,
+      "success": true,
+      "score": 1.0
+    },
+    "102": {
+      "layout_id": 102,
+      "success": true,
+      "score": 1.0
+    },
+    "103": {
+      "layout_id": 103,
+      "success": false,
+      "score": 0.15
+    },
+    "104": {
+      "layout_id": 104,
+      "success": true,
+      "score": 1.0
+    },
+    "105": {
+      "layout_id": 105,
+      "success": true,
+      "score": 1.0
+    },
+    "106": {
+      "layout_id": 106,
+      "success": true,
+      "score": 1.0
+    },
+    "107": {
+      "layout_id": 107,
+      "success": true,
+      "score": 1.0
+    },
+    "108": {
+      "layout_id": 108,
+      "success": true,
+      "score": 1.0
+    },
+    "109": {
+      "layout_id": 109,
+      "success": true,
+      "score": 1.0
+    },
+    "110": {
+      "layout_id": 110,
+      "success": true,
+      "score": 1.0
+    },
+    "111": {
+      "layout_id": 111,
+      "success": true,
+      "score": 1.0
+    },
+    "112": {
+      "layout_id": 112,
+      "success": false,
+      "score": 0.15
+    },
+    "113": {
+      "layout_id": 113,
+      "success": true,
+      "score": 1.0
+    },
+    "114": {
+      "layout_id": 114,
+      "success": true,
+      "score": 1.0
+    },
+    "115": {
+      "layout_id": 115,
+      "success": true,
+      "score": 1.0
+    },
+    "116": {
+      "layout_id": 116,
+      "success": true,
+      "score": 1.0
+    },
+    "117": {
+      "layout_id": 117,
+      "success": false,
+      "score": 0.0
+    },
+    "118": {
+      "layout_id": 118,
+      "success": false,
+      "score": 0.15
+    },
+    "119": {
+      "layout_id": 119,
+      "success": false,
+      "score": 0.15
+    },
+    "120": {
+      "layout_id": 120,
+      "success": true,
+      "score": 1.0
+    },
+    "121": {
+      "layout_id": 121,
+      "success": true,
+      "score": 1.0
+    },
+    "122": {
+      "layout_id": 122,
+      "success": true,
+      "score": 1.0
+    },
+    "123": {
+      "layout_id": 123,
+      "success": true,
+      "score": 1.0
+    },
+    "124": {
+      "layout_id": 124,
+      "success": true,
+      "score": 1.0
+    }
+  }
+}
