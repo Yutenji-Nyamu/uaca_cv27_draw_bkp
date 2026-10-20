@@ -1,0 +1,43 @@
+{
+  "task": "stack_blocks",
+  "layout": 72,
+  "slot": 22,
+  "model_seed": 0,
+  "run_id": "g6-reset-stack_blocks",
+  "action_before": 459,
+  "episode_id": 72,
+  "source_layout": {
+    "layout_seed": 0,
+    "source_layout_id": 24,
+    "scene_layout": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/0/stack_blocks_24.json",
+    "episode_id": 72,
+    "repeat": 0
+  },
+  "success": true,
+  "native_tag": "success",
+  "executed_actions": 459,
+  "videos": {
+    "cam_head": {
+      "frames": 460,
+      "width": 640,
+      "height": 480,
+      "fps": 25,
+      "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000072_cam_head_success.mp4"
+    },
+    "cam_left_wrist": {
+      "frames": 460,
+      "width": 640,
+      "height": 480,
+      "fps": 25,
+      "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000072_cam_left_wrist_success.mp4"
+    },
+    "cam_right_wrist": {
+      "frames": 460,
+      "width": 640,
+      "height": 480,
+      "fps": 25,
+      "path": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/episode_0000072_cam_right_wrist_success.mp4"
+    }
+  },
+  "native_result": "/home/nvme/team-data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/eval_result/RoboDojo/stack_blocks/Pi_05/arx_x5/0_ckpt_name=sim,action_type=joint,u=10v5/g6-reset-stack_blocks/_result.json"
+}

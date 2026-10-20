@@ -1,0 +1,22 @@
+{
+  "task": "stack_blocks",
+  "layout": 26,
+  "slot": 1,
+  "model_seed": 0,
+  "run_id": "g6-reset-stack_blocks",
+  "action_before": 200,
+  "episode_id": 26,
+  "source_layout": {
+    "layout_seed": 2,
+    "source_layout_id": 8,
+    "scene_layout": "/data/chenyiteng/projects/robodojo-openwam-sz3/RoboDojo/Assets/Eval_Layout/RoboDojo/arx_x5/2/stack_blocks_8.json",
+    "episode_id": 26,
+    "repeat": 0
+  },
+  "query": 4,
+  "prompt": "Stack the three blocks with different textures.",
+  "seconds": 0.3826578389853239,
+  "rng_exact": true,
+  "u_coordinates": "normalized model first 14 real coordinates",
+  "noise": "same complete JAX initial noise, M10 vs complete M5"
+}
