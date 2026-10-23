@@ -1,0 +1,34 @@
+{
+  "records": [
+    {
+      "version": "A",
+      "pdf_bytes": 862445,
+      "pages": 1,
+      "text_characters": 1180,
+      "vector_path_ops": 2619,
+      "pdf_page_points": [
+        1414.5,
+        530.0
+      ],
+      "white_margin_pdf_points": 0.75
+    },
+    {
+      "version": "B",
+      "pdf_bytes": 862444,
+      "pages": 1,
+      "text_characters": 1180,
+      "vector_path_ops": 2619,
+      "pdf_page_points": [
+        1414.5,
+        530.0
+      ],
+      "white_margin_pdf_points": 0.75
+    }
+  ],
+  "final_source_unchanged": true,
+  "overleaf": {
+    "added": 0,
+    "modified": 0,
+    "deleted": 0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "task": "turn_switch",
+  "MA": 50,
+  "window_unit": "training episodes",
+  "x_unit": "cumulative executed training actions",
+  "records": [
+    {
+      "series": "Old Clean",
+      "records": 304,
+      "first_raw_x": 59.0,
+      "last_raw_x": 43802.0,
+      "first_ma50_x": 7795.0,
+      "last_display_x": 34932.0,
+      "peak_actions": 29421.0,
+      "peak_success": 70.0
+    },
+    {
+      "series": "Old Editor U tau2",
+      "records": 340,
+      "first_raw_x": 185.0,
+      "last_raw_x": 47810.0,
+      "first_ma50_x": 7493.0,
+      "last_display_x": 34920.0,
+      "peak_actions": 16875.0,
+      "peak_success": 76.0
+    }
+  ]
+}
