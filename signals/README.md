@@ -1,6 +1,6 @@
 # Current signal collection
 
-2026-10-23: N75 head figure + 14 full-trajectory appendix panels.
+2026-10-23: N39 head figure + 14 full-trajectory appendix panels.
 
 [Editable 15-page Draw.io](UACA_signal_collection.drawio) · [Selected-frame manifest](selection.json) · [Current appendix](../appendix/README.md)
 

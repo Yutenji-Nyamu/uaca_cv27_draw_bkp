@@ -368,7 +368,7 @@
     "id": "N39",
     "task": "place_burger_fries",
     "title": "Place Burger & Fries",
-    "role": "appendix",
+    "role": "head",
     "steps": [
       5,
       16,
@@ -1025,7 +1025,7 @@
     "id": "N75",
     "task": "turn_switch",
     "title": "Turn Switch",
-    "role": "head",
+    "role": "appendix",
     "steps": [
       9,
       30,

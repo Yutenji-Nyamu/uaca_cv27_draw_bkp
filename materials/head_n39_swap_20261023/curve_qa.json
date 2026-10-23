@@ -1,0 +1,88 @@
+[
+  {
+    "id": "EXPO",
+    "y_limits": [
+      15,
+      85
+    ],
+    "x_limits": [
+      0,
+      35000
+    ],
+    "first5_values": [
+      [
+        33.333333333333336,
+        28.571428571428573,
+        25.0,
+        22.22222222222222,
+        30.0
+      ],
+      [
+        33.333333333333336,
+        28.571428571428573,
+        37.5,
+        33.333333333333336,
+        40.0
+      ]
+    ],
+    "display_peaks": [
+      [
+        29421.0,
+        70.0
+      ],
+      [
+        16875.0,
+        76.0
+      ]
+    ],
+    "initial_records_below_axis": [
+      0,
+      0
+    ],
+    "first5_rule": "mean of original records within center +/- 5, inclusive; truncate at beginning",
+    "from_record6": "unchanged trailing MA50 with min_periods=1"
+  },
+  {
+    "id": "GRPO",
+    "y_limits": [
+      35,
+      80
+    ],
+    "x_limits": [
+      0,
+      168
+    ],
+    "first5_values": [
+      [
+        32.421875,
+        33.203125,
+        35.416666666666664,
+        37.6953125,
+        39.296875
+      ],
+      [
+        34.375,
+        36.5234375,
+        37.369791666666664,
+        37.40234375,
+        39.296875
+      ]
+    ],
+    "display_peaks": [
+      [
+        163.0,
+        66.484375
+      ],
+      [
+        157.0,
+        72.0234375
+      ]
+    ],
+    "initial_records_below_axis": [
+      2,
+      1
+    ],
+    "first5_rule": "trailing MA50, min_periods=1",
+    "from_record6": "unchanged trailing MA50 with min_periods=1"
+  }
+]
