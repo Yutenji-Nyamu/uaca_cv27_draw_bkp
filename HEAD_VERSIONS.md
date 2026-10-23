@@ -9,6 +9,6 @@ Both layouts remain current final figures, updated 2026-10-23.
 
 Both now use N39 Place Burger & Fries (0-100 action steps) noise4: four independent initial-noise samples, 10 NFEs each. EXPO/GRPO axes start at zero. EXPO records 1-5 use a centered +/-5-record mean, followed by partial-window MA50. EXPO retains the accepted approximate round scale. EXPO and GRPO y ranges are restored to 15-85% and 35-80%, respectively. EXPO peaks remain 70%/76%; the temporary MA50 peaks label was removed. RLT is preserved.
 
-[Current signal collection](signals/README.md) · [14 appendix panels](appendix/README.md) · [Detailed changes](materials/head_n39_swap_20261023/CHANGES.md)
+[Current signal collection](signals/README.md) · [14 appendix panels](appendix/README.md) · [Detailed changes](materials/head_annotations_20261023/CHANGES.md)
 
-This revision updates local and Git figures. Overleaf changes this round: 0 added, 0 modified, 0 deleted.
+Annotation revision: the five highest existing sparse markers (actions 10, 12, 14, 16, 18) are red. The separate EXPO centered-start trial remains in materials/head_annotations_20261023/. Overleaf changes this round: 0 added, 1 modified, 0 deleted; only fig/uaca_head_simple_20261022.pdf replaced. Cloud compilation: 0 errors / 0 warnings.
