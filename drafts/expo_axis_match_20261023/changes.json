@@ -1,5 +1,4 @@
 {
-  "source": "E:\\0school\\研二上\\cvpr\\uaca\\draw\\final\\head\\UACA_head_simple.drawio",
   "changed": [
     "r2_EXPO_xt0",
     "r2_EXPO_xt1",
@@ -7,19 +6,22 @@
     "r2_EXPO_xt3",
     "r2_EXPO_xaxis"
   ],
-  "axes_title": [
-    "Training Steps",
-    "Training Steps",
-    "Training Steps"
+  "added": [
+    "r2_EXPO_xt4"
   ],
-  "axis_format": "full integers, no k suffix",
-  "ticks": [
-    "10000",
-    "20000",
-    "30000"
+  "all_non_axis_objects_exactly_preserved": true,
+  "curve_geometry_changes": 0,
+  "star_changes": 0,
+  "peak_guide_changes": 0,
+  "legend_changes": 0,
+  "approximate_axis": [
+    50,
+    100,
+    150,
+    200,
+    250
   ],
-  "data": "same cumulative online training actions; x range 7493 to 35000",
-  "non_axis_changes": 0,
+  "approximation": "Affine display ruler from 50 to 250 across the original selected action interval. Actual episode counts at original right endpoints are 244 and 257.",
   "overleaf": {
     "added": 0,
     "modified": 0,
