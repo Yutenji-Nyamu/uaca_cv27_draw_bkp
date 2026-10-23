@@ -458,11 +458,6 @@
   "peak_h_error": 0.03763300952493154,
   "edge": 16,
   "id": "N12",
-  "selected_indices": [
-    1,
-    3,
-    5
-  ],
   "fps": 24.999998812563774,
   "mapping_note": "monotone geometric projection onto compressed arm path; approximate, per arm",
   "selection": "Illustrative peak/transition selection, success preferred; not an unbiased metric.",
@@ -471,5 +466,10 @@
     "noise_samples": 4,
     "NFEs_per_sample": 10,
     "executed_sample": 1
-  }
+  },
+  "selected_action_steps": [
+    3,
+    16,
+    35
+  ]
 }

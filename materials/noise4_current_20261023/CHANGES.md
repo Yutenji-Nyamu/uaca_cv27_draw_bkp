@@ -14,9 +14,9 @@
 
 15条轨迹备份均包含完整H264视频、series.json、frame_map.json与3张选定帧。录像25 fps；动作对应按逐臂单调几何投影映射，映射精度和误差保留在选帧清单。采样点沿用上轮已选动作，本轮修正说明文字。
 
-- 本地当前集合：[final/signals/index.html](final/signals/index.html)
-- 图稿当前目录：[final](final/README.md)
-- 数据与录像：[assets/noise4_current_20261023](assets/noise4_current_20261023)
+- 本地当前集合：[当前信号集合](../../signals/README.md)
+- 图稿当前目录：[当前头图](../../HEAD_VERSIONS.md)
+- 数据与录像：[当前数据与录像](../../signals/assets)
 - 原始75条录像来源：https://github.com/Yutenji-Nyamu/tts_consistency_fig
 
 ## EXPO / GRPO 从零开始
