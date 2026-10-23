@@ -1,0 +1,134 @@
+{
+  "comments": [
+    {
+      "id": "1JSs4SlWlBpdugTepuEQ-4",
+      "text": "这个曲线，怎么感觉不太对；线，不应该是点之间连吗？怎么有些点间，线还拐弯？等等；总之，参考dvca头图，看看，怎么才是对齐的，各方面对齐的画法；迭代的看，有没有不对的，丑的"
+    },
+    {
+      "id": "1JSs4SlWlBpdugTepuEQ-1",
+      "text": "正式图，保存为这一个单个，其他版本的头图，存为历史；"
+    },
+    {
+      "id": "1JSs4SlWlBpdugTepuEQ-3",
+      "text": "这个框图标题，目前歪向左的的，微调，到居中"
+    },
+    {
+      "id": "1JSs4SlWlBpdugTepuEQ-5",
+      "text": "第一框图里面的东西，调整下，均匀铺满吧；你试试看"
+    },
+    {
+      "id": "1JSs4SlWlBpdugTepuEQ-6",
+      "text": "迭代调整，要有审美   "
+    }
+  ],
+  "selected_expo_page": "02 | First 50 records: centered +/-25",
+  "selected_expo_note": "用这个图吧",
+  "current_head_only": true,
+  "layout": {
+    "top": [
+      0,
+      26,
+      1440,
+      402
+    ],
+    "bottom_method": [
+      0,
+      447,
+      581,
+      275
+    ],
+    "bottom_training": [
+      594,
+      447,
+      846,
+      275
+    ],
+    "title_center": 720,
+    "photo_lefts": [
+      26,
+      496,
+      966
+    ]
+  },
+  "signal": {
+    "xrange": [
+      0,
+      100
+    ],
+    "yrange": [
+      0,
+      0.4
+    ],
+    "marker_steps": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24,
+      26,
+      28,
+      30,
+      32,
+      34,
+      36,
+      38,
+      40,
+      42,
+      44,
+      46,
+      48,
+      50,
+      52,
+      54,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74,
+      76,
+      78,
+      80,
+      82,
+      84,
+      86,
+      88,
+      90,
+      92,
+      94,
+      96,
+      98,
+      100
+    ],
+    "line_vertices": 51,
+    "red_steps": [
+      10,
+      12,
+      14,
+      16,
+      18
+    ],
+    "frames": [
+      5,
+      16,
+      48
+    ],
+    "stripe_width": 26.48,
+    "circle_diameter": 8.4,
+    "line_rule": "straight segments between adjacent displayed circles; same raw action samples, no averaging"
+  },
+  "preserved": "EXPO axes, peaks, legend; all GRPO/RLT chart content; all 14 appendix pages; photo pixels and text.",
+  "archive": "Previous full layouts plus annotated source; detached noise schematic and real-world panel retained there."
+}

@@ -7,3 +7,5 @@
 Each assets/Nxx folder contains the full same-episode video, original per-action arrays, per-arm frame mapping, and three selected frames. Active signal: noise4, four initial-noise samples with 10 NFEs each; the first sample is executed.
 
 N20 was removed from the current collection. Photo-corner A/B/C badges were removed. Curve correspondence letters remain. N71 depicts a change of active hand.
+
+Head display: straight segments connect the existing markers at actions 0, 2, ..., 100, following the DVCA line/marker convention. Original per-action arrays and all 14 full-resolution appendix traces remain.

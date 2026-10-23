@@ -1,14 +1,11 @@
-# UACA head figure versions
+# Current UACA head figure
 
-Both layouts remain current final figures, updated 2026-10-23.
+One current final figure, selected and annotated by the user on 2026-10-23.
 
-| Version | Editable source | Vector PDF | Preview |
-|---|---|---|---|
-| Original, three rows | [Draw.io](UACA_head_current_layout.drawio) | [PDF](UACA_head_current_layout.pdf) | [PNG](UACA_head_current_layout.png) |
-| simple, two rows | [Draw.io](UACA_head_simple.drawio) | [PDF](UACA_head_simple.pdf) | [PNG](UACA_head_simple.png) |
+[Editable Draw.io](UACA_head_simple.drawio) · [Vector PDF](UACA_head_simple.pdf) · [Preview](UACA_head_simple.png)
 
-Both now use N39 Place Burger & Fries (0-100 action steps) noise4: four independent initial-noise samples, 10 NFEs each. EXPO/GRPO axes start at zero. EXPO records 1-5 use a centered +/-5-record mean, followed by partial-window MA50. EXPO retains the accepted approximate round scale. EXPO and GRPO y ranges are restored to 15-85% and 35-80%, respectively. EXPO peaks remain 70%/76%; the temporary MA50 peaks label was removed. RLT is preserved.
+The current layout contains the N39 action signal, the post-training method panel, and training curves. The first panel is centered and evenly distributed. Its line connects the existing every-two-actions markers; five markers remain red. EXPO uses the selected second-page curve: centered +/-25 for the first 50 records, then the prior trailing MA50. Axes, peaks and legends remain.
 
-[Current signal collection](signals/README.md) · [14 appendix panels](appendix/README.md) · [Detailed changes](materials/head_annotations_20261023/CHANGES.md)
+[Previous layouts and annotated source](history/head_before_single_20261023/README.md) · [Detailed changes](materials/head_selected_expo_20261023/CHANGES.md) · [Signal collection](signals/README.md) · [14 appendix panels](appendix/README.md)
 
-Annotation revision: the five highest existing sparse markers (actions 10, 12, 14, 16, 18) are red. The separate EXPO centered-start trial remains in materials/head_annotations_20261023/. Overleaf changes this round: 0 added, 1 modified, 0 deleted; only fig/uaca_head_simple_20261022.pdf replaced. Cloud compilation: 0 errors / 0 warnings.
+Overleaf: 0 added, 1 modified, 0 deleted. Only fig/uaca_head_simple_20261022.pdf replaced. Errors 0 / warnings 0.

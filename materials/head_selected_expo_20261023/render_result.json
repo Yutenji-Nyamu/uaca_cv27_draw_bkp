@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "file": "E:\\0school\\研二上\\cvpr\\uaca\\draw\\candidates\\head_selected_expo_20261023\\head\\UACA_head_simple.drawio",
+      "stem": "UACA_head_simple",
+      "pdf": {
+        "pages": 1,
+        "size": [
+          1085.25,
+          531.375
+        ],
+        "vector_paths": 660,
+        "text_characters": 916,
+        "raster_images": 4
+      },
+      "width": 1499,
+      "height": 759,
+      "objects": 443,
+      "missing": 0,
+      "images": 4,
+      "failed": 0,
+      "trim_bbox_pixels": [
+        73,
+        69,
+        2961,
+        1480
+      ],
+      "png_pixels": [
+        2894,
+        1417
+      ],
+      "white_margin_pixels": 3
+    },
+    {
+      "file": "E:\\0school\\研二上\\cvpr\\uaca\\draw\\candidates\\head_selected_expo_20261023\\elements\\action_uncertainty.drawio",
+      "stem": "action_uncertainty",
+      "pdf": false,
+      "width": 1476,
+      "height": 455,
+      "objects": 133,
+      "missing": 0,
+      "images": 3,
+      "failed": 0,
+      "trim_bbox_pixels": [
+        33,
+        54,
+        2920,
+        877
+      ],
+      "png_pixels": [
+        2893,
+        829
+      ],
+      "white_margin_pixels": 3
+    },
+    {
+      "file": "E:\\0school\\研二上\\cvpr\\uaca\\draw\\candidates\\head_selected_expo_20261023\\elements\\training_curves.drawio",
+      "stem": "training_curves",
+      "pdf": false,
+      "width": 885,
+      "height": 324,
+      "objects": 95,
+      "missing": 0,
+      "images": 0,
+      "failed": 0,
+      "trim_bbox_pixels": [
+        33,
+        44,
+        1732,
+        616
+      ],
+      "png_pixels": [
+        1705,
+        578
+      ],
+      "white_margin_pixels": 3
+    },
+    {
+      "file": "E:\\0school\\研二上\\cvpr\\uaca\\draw\\candidates\\head_selected_expo_20261023\\elements\\method.drawio",
+      "stem": "method",
+      "pdf": false,
+      "width": 654,
+      "height": 327,
+      "objects": 214,
+      "missing": 0,
+      "images": 1,
+      "failed": 0,
+      "trim_bbox_pixels": [
+        74,
+        42,
+        1242,
+        616
+      ],
+      "png_pixels": [
+        1174,
+        580
+      ],
+      "white_margin_pixels": 3
+    }
+  ],
+  "errors": []
+}
