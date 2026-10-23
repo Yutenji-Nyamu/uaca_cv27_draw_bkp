@@ -1,16 +1,14 @@
 # UACA head figure versions
 
-Both versions are maintained as final figures.
+Both layouts remain current final figures, updated 2026-10-23.
 
 | Version | Editable source | Vector PDF | Preview |
 |---|---|---|---|
 | Original, three rows | [Draw.io](UACA_head_current_layout.drawio) | [PDF](UACA_head_current_layout.pdf) | [PNG](UACA_head_current_layout.png) |
 | simple, two rows | [Draw.io](UACA_head_simple.drawio) | [PDF](UACA_head_simple.pdf) | [PNG](UACA_head_simple.png) |
 
-simple moves the self-consistency diagram into the first panel and places the training loop at the lower left. It retains the original text, images, curves, and colors. Updated 2026-10-22.
+Both now use N75 turn_switch noise4: four independent initial-noise samples, 10 NFEs each. EXPO/GRPO use MA50 with partial warm-up windows and axes starting at zero. EXPO retains the accepted approximate round scale. Its complete-window peaks are labeled MA50 peaks. RLT is preserved.
 
-Latest simple revision: connected branch arrows, centered U circle/label with coaxial upper/lower arrows, fine gray photo frames, and a matching red uncertainty axis label. User-adjusted positions are preserved.
+[Current signal collection](signals/README.md) · [14 appendix panels](appendix/README.md) · [Detailed changes](materials/noise4_current_20261023/CHANGES.md)
 
-[Annotation variants and editable source](candidates/simple_annotations_20261022/README.md).
-
-2026-10-23: accepted EXPO axis-only revision: approximate episode ticks 50, 100, 150, 200, 250. All non-axis native geometry is preserved. The simple PDF was replaced in Overleaf; compile errors/warnings: 0/0.
+This revision updates local and Git figures. Overleaf changes this round: 0 added, 0 modified, 0 deleted.

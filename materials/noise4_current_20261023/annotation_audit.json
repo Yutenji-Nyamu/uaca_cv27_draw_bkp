@@ -1,0 +1,587 @@
+[
+  {
+    "id": "N12",
+    "letter": "A",
+    "step": 3,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N12",
+    "letter": "B",
+    "step": 16,
+    "before": [
+      "Roller approach",
+      "How to align?"
+    ],
+    "after": [
+      "Roller approach",
+      "Where to grasp?"
+    ]
+  },
+  {
+    "id": "N12",
+    "letter": "C",
+    "step": 35,
+    "before": [
+      "At roller ends",
+      "Grasps aligned"
+    ],
+    "after": [
+      "Roller alignment",
+      "Ends within reach"
+    ]
+  },
+  {
+    "id": "N17",
+    "letter": "A",
+    "step": 150,
+    "before": [
+      "Left hand at mug",
+      "Mug position fixed"
+    ],
+    "after": [
+      "Mug placement",
+      "Mug on table"
+    ]
+  },
+  {
+    "id": "N17",
+    "letter": "B",
+    "step": 180,
+    "before": [
+      "Switching hands",
+      "Which grasp next?"
+    ],
+    "after": [
+      "Switching hands",
+      "How to regrasp?"
+    ]
+  },
+  {
+    "id": "N17",
+    "letter": "C",
+    "step": 202,
+    "before": [
+      "Right-hand reach",
+      "Fingers aligned"
+    ],
+    "after": [
+      "Right-hand grasp",
+      "Grasp established"
+    ]
+  },
+  {
+    "id": "N19",
+    "letter": "A",
+    "step": 10,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N19",
+    "letter": "B",
+    "step": 22,
+    "before": [
+      "Handle approach",
+      "How to align?"
+    ],
+    "after": [
+      "Handle approach",
+      "How to align?"
+    ]
+  },
+  {
+    "id": "N19",
+    "letter": "C",
+    "step": 48,
+    "before": [
+      "Hands at handles",
+      "Two-hand alignment"
+    ],
+    "after": [
+      "At pot handles",
+      "Grippers aligned"
+    ]
+  },
+  {
+    "id": "N31",
+    "letter": "A",
+    "step": 10,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N31",
+    "letter": "B",
+    "step": 22,
+    "before": [
+      "Bottle approach",
+      "How to align?"
+    ],
+    "after": [
+      "Bottle approach",
+      "How to align?"
+    ]
+  },
+  {
+    "id": "N31",
+    "letter": "C",
+    "step": 52,
+    "before": [
+      "Hands at bottles",
+      "Grasps aligned"
+    ],
+    "after": [
+      "At the bottles",
+      "Ready to grasp"
+    ]
+  },
+  {
+    "id": "N35",
+    "letter": "A",
+    "step": 5,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N35",
+    "letter": "B",
+    "step": 26,
+    "before": [
+      "Object approach",
+      "Which grasp pose?"
+    ],
+    "after": [
+      "Object approach",
+      "Which grasp pose?"
+    ]
+  },
+  {
+    "id": "N35",
+    "letter": "C",
+    "step": 52,
+    "before": [
+      "Grasp alignment",
+      "Fingers centered"
+    ],
+    "after": [
+      "Above the object",
+      "Gripper aligned"
+    ]
+  },
+  {
+    "id": "N39",
+    "letter": "A",
+    "step": 5,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N39",
+    "letter": "B",
+    "step": 16,
+    "before": [
+      "Food approach",
+      "How to align?"
+    ],
+    "after": [
+      "Food approach",
+      "How to grasp both?"
+    ]
+  },
+  {
+    "id": "N39",
+    "letter": "C",
+    "step": 48,
+    "before": [
+      "Hands at food",
+      "Grasps aligned"
+    ],
+    "after": [
+      "At the food",
+      "Grippers aligned"
+    ]
+  },
+  {
+    "id": "N43",
+    "letter": "A",
+    "step": 5,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N43",
+    "letter": "B",
+    "step": 16,
+    "before": [
+      "Can approach",
+      "How to align?"
+    ],
+    "after": [
+      "Can approach",
+      "How to align?"
+    ]
+  },
+  {
+    "id": "N43",
+    "letter": "C",
+    "step": 48,
+    "before": [
+      "Hands at cans",
+      "Grasps aligned"
+    ],
+    "after": [
+      "At the cans",
+      "Grippers aligned"
+    ]
+  },
+  {
+    "id": "N45",
+    "letter": "A",
+    "step": 156,
+    "before": [
+      "Gripper retraction",
+      "Free-space motion"
+    ],
+    "after": [
+      "Left-hand retreat",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N45",
+    "letter": "B",
+    "step": 197,
+    "before": [
+      "Shoe above box",
+      "How to orient?"
+    ],
+    "after": [
+      "Shoe positioning",
+      "How to orient?"
+    ]
+  },
+  {
+    "id": "N45",
+    "letter": "C",
+    "step": 265,
+    "before": [
+      "Shoe in box",
+      "Placement aligned"
+    ],
+    "after": [
+      "Lowering shoe",
+      "Shoe aligned"
+    ]
+  },
+  {
+    "id": "N49",
+    "letter": "A",
+    "step": 163,
+    "before": [
+      "Carry object",
+      "Object held"
+    ],
+    "after": [
+      "Carry object",
+      "Object held"
+    ]
+  },
+  {
+    "id": "N49",
+    "letter": "B",
+    "step": 189,
+    "before": [
+      "Release in basket",
+      "When to release?"
+    ],
+    "after": [
+      "Object release",
+      "When to release?"
+    ]
+  },
+  {
+    "id": "N49",
+    "letter": "C",
+    "step": 202,
+    "before": [
+      "Retract gripper",
+      "Object placed"
+    ],
+    "after": [
+      "Gripper retreat",
+      "Object in basket"
+    ]
+  },
+  {
+    "id": "N52",
+    "letter": "A",
+    "step": 3,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N52",
+    "letter": "B",
+    "step": 15,
+    "before": [
+      "Object approach",
+      "Which grasp pose?"
+    ],
+    "after": [
+      "Reach initiation",
+      "Where to grasp?"
+    ]
+  },
+  {
+    "id": "N52",
+    "letter": "C",
+    "step": 52,
+    "before": [
+      "Grasp object",
+      "Fingers aligned"
+    ],
+    "after": [
+      "Object approach",
+      "Gripper aligned"
+    ]
+  },
+  {
+    "id": "N53",
+    "letter": "A",
+    "step": 154,
+    "before": [
+      "Phone held",
+      "Stable grasp"
+    ],
+    "after": [
+      "Hand retreat",
+      "Phone on table"
+    ]
+  },
+  {
+    "id": "N53",
+    "letter": "B",
+    "step": 178,
+    "before": [
+      "Change grasp",
+      "How to orient?"
+    ],
+    "after": [
+      "Phone approach",
+      "Where to grasp?"
+    ]
+  },
+  {
+    "id": "N53",
+    "letter": "C",
+    "step": 235,
+    "before": [
+      "Phone tilted",
+      "Pose aligned"
+    ],
+    "after": [
+      "Lift phone",
+      "Grasp established"
+    ]
+  },
+  {
+    "id": "N56",
+    "letter": "A",
+    "step": 8,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N56",
+    "letter": "B",
+    "step": 40,
+    "before": [
+      "Stapler approach",
+      "Where to press?"
+    ],
+    "after": [
+      "Stapler approach",
+      "Where to press?"
+    ]
+  },
+  {
+    "id": "N56",
+    "letter": "C",
+    "step": 70,
+    "before": [
+      "Above stapler",
+      "Ready to press"
+    ],
+    "after": [
+      "Above stapler",
+      "Ready to press"
+    ]
+  },
+  {
+    "id": "N63",
+    "letter": "A",
+    "step": 6,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N63",
+    "letter": "B",
+    "step": 15,
+    "before": [
+      "Bottle approach",
+      "Which grasp pose?"
+    ],
+    "after": [
+      "Bottle approach",
+      "Where to grasp?"
+    ]
+  },
+  {
+    "id": "N63",
+    "letter": "C",
+    "step": 35,
+    "before": [
+      "At bottle neck",
+      "Fingers aligned"
+    ],
+    "after": [
+      "Above bottle",
+      "Gripper aligned"
+    ]
+  },
+  {
+    "id": "N71",
+    "letter": "A",
+    "step": 177,
+    "before": [
+      "Bowl released",
+      "Bowl on table"
+    ],
+    "after": [
+      "Bowl released",
+      "Bowl on table"
+    ]
+  },
+  {
+    "id": "N71",
+    "letter": "B",
+    "step": 187,
+    "before": [
+      "Switching hands",
+      "Which hand next?"
+    ],
+    "after": [
+      "Switching hands",
+      "Which hand next?"
+    ]
+  },
+  {
+    "id": "N71",
+    "letter": "C",
+    "step": 197,
+    "before": [
+      "Right-hand reach",
+      "Target bowl fixed"
+    ],
+    "after": [
+      "Right-hand reach",
+      "Next bowl targeted"
+    ]
+  },
+  {
+    "id": "N75",
+    "letter": "A",
+    "step": 9,
+    "before": [
+      "Initial arm lift",
+      "Free-space motion"
+    ],
+    "after": [
+      "Initial reach",
+      "Free-space motion"
+    ]
+  },
+  {
+    "id": "N75",
+    "letter": "B",
+    "step": 30,
+    "before": [
+      "Switch approach",
+      "How to align?"
+    ],
+    "after": [
+      "Switch approach",
+      "How to align?"
+    ]
+  },
+  {
+    "id": "N75",
+    "letter": "C",
+    "step": 50,
+    "before": [
+      "Over switch",
+      "Ready to press"
+    ],
+    "after": [
+      "At the switch",
+      "Ready to press"
+    ]
+  }
+]

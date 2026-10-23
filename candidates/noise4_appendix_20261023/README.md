@@ -1,3 +1,5 @@
+> HISTORICAL CANDIDATE SET. Superseded by the current 15-page collection (N75 head + 14 appendix). N20 is removed from the current collection.
+
 # 四噪声 U · 16 页附录候选 · 2026-10-23
 
 [逐页预览](index.html) · [16 页原生 Draw.io](UACA_noise4_selected16_20261023.drawio)

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "EXPO",
+    "window": 50,
+    "min_periods": 1,
+    "x_limits": [
+      0,
+      35000
+    ],
+    "y_limits": [
+      15,
+      105
+    ],
+    "points": [
+      244,
+      257
+    ],
+    "full_window_peaks": [
+      [
+        29421.0,
+        70.0
+      ],
+      [
+        16875.0,
+        76.0
+      ]
+    ],
+    "display_ticks": [
+      0,
+      50,
+      100,
+      150,
+      200,
+      250
+    ],
+    "axis_units": "approximate training rounds, 140 actions per displayed step"
+  },
+  {
+    "id": "GRPO",
+    "window": 50,
+    "min_periods": 1,
+    "x_limits": [
+      0,
+      168
+    ],
+    "y_limits": [
+      15,
+      80
+    ],
+    "points": [
+      168,
+      168
+    ],
+    "full_window_peaks": [
+      [
+        163.0,
+        66.484375
+      ],
+      [
+        157.0,
+        72.0234375
+      ]
+    ],
+    "display_ticks": [
+      0,
+      50,
+      100,
+      150
+    ],
+    "axis_units": "training rounds"
+  }
+]
