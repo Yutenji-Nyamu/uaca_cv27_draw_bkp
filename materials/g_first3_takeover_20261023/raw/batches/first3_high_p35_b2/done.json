@@ -1,0 +1,13 @@
+{
+  "time": 1792624443.4815192,
+  "elapsed_seconds": 1923.4019508361816,
+  "episodes": 32,
+  "successes": 15,
+  "condition": "first3_high_p35",
+  "takeover_mode": "weights",
+  "record_full_video": true,
+  "unique_actual_seeds": 32,
+  "native_seed_retries": 0,
+  "strong_decisions": 41,
+  "decisions": 293
+}

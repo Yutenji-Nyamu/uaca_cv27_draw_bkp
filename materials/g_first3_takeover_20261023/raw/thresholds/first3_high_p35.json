@@ -1,0 +1,9 @@
+{
+  "high": 0.018122690078910025,
+  "condition": "first3_high_p35",
+  "policy": "high",
+  "target_fraction": 0.35,
+  "calibration_quantile": 0.65,
+  "threshold": 0.018122690078910025,
+  "calibration_fraction": 0.34988179669030733
+}

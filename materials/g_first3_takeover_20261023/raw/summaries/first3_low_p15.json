@@ -1,0 +1,56 @@
+{
+  "condition": "first3_low_p15",
+  "takeover_mode": "weights",
+  "fraction_definition": "selected decisions / active decisions; selected submitted actions / all submitted actions",
+  "episodes": 128,
+  "successes": 46,
+  "success_rate": 0.359375,
+  "wilson95": [
+    0.2814673057552586,
+    0.4454774631966657
+  ],
+  "unique_actual_seeds": 128,
+  "native_seed_retries": 0,
+  "inference_seconds": 41.42831034678966,
+  "env_seconds": 5965.760134245269,
+  "strong_fraction": 0.029461279461279462,
+  "submitted_strong_fraction": 0.029461279461279462,
+  "source_batches": [
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/batches/first3_low_p15_b0",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/batches/first3_low_p15_b1",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/batches/first3_low_p15_b2",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/batches/first3_low_p15_b3"
+  ],
+  "eligible_decisions": 384,
+  "eligible_strong_fraction": 0.09114583333333333,
+  "first_three": {
+    "decisions": 384,
+    "strong": 35,
+    "fraction": 0.09114583333333333
+  },
+  "after_three": {
+    "decisions": 804,
+    "strong": 0,
+    "fraction": 0.0
+  },
+  "first_two": {
+    "decisions": 256,
+    "strong": 15,
+    "fraction": 0.05859375
+  },
+  "later": {
+    "decisions": 932,
+    "strong": 20,
+    "fraction": 0.02145922746781116
+  },
+  "execute_chunk": 20,
+  "max_takeover_queries": 3,
+  "paired_with_weak": {
+    "baseline": "clean_weak",
+    "matched": 128,
+    "gained": 4,
+    "lost": 3,
+    "difference": 0.0078125,
+    "all_128_matched": true
+  }
+}

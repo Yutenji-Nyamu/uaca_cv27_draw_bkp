@@ -1,0 +1,335 @@
+{
+  "time": 1792559104.85061,
+  "source": "/data/chenyiteng/projects/rlinf-shenzhen/worktrees/pi05-clean-c20-followups-20261021",
+  "output": "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1",
+  "mode": "first3",
+  "cards": [
+    4,
+    5
+  ],
+  "weak": "/data/chenyiteng/models/protected-eval/pillbottle/clean_c17_cp140/full_weights.pt",
+  "strong": "/data/chenyiteng/models/protected-eval/pillbottle/grpo_u_tau3_cp70/full_weights.pt",
+  "H": 50,
+  "C": 20,
+  "N": 10,
+  "step_limit": 200,
+  "max_takeover_queries": 3,
+  "per_card_parallelism": 32,
+  "episodes_per_condition": 128,
+  "conditions": [
+    {
+      "condition": "first3_high_p05",
+      "policy": "high",
+      "target_fraction": 0.05,
+      "calibration_quantile": 0.95,
+      "threshold": 0.035345878235539224,
+      "calibration_fraction": 0.0508274231678487
+    },
+    {
+      "condition": "first3_low_p05",
+      "policy": "low",
+      "target_fraction": 0.05,
+      "calibration_quantile": 0.05,
+      "threshold": 0.010800096035401625,
+      "calibration_fraction": 0.0508274231678487
+    },
+    {
+      "condition": "first3_high_p95",
+      "policy": "high",
+      "target_fraction": 0.95,
+      "calibration_quantile": 0.050000000000000044,
+      "threshold": 0.010800096035401625,
+      "calibration_fraction": 0.9491725768321513
+    },
+    {
+      "condition": "first3_low_p95",
+      "policy": "low",
+      "target_fraction": 0.95,
+      "calibration_quantile": 0.95,
+      "threshold": 0.035345878235539224,
+      "calibration_fraction": 0.9491725768321513
+    },
+    {
+      "condition": "first3_high_p25",
+      "policy": "high",
+      "target_fraction": 0.25,
+      "calibration_quantile": 0.75,
+      "threshold": 0.020088277745248982,
+      "calibration_fraction": 0.25059101654846333
+    },
+    {
+      "condition": "first3_low_p25",
+      "policy": "low",
+      "target_fraction": 0.25,
+      "calibration_quantile": 0.25,
+      "threshold": 0.013412581168326183,
+      "calibration_fraction": 0.25059101654846333
+    },
+    {
+      "condition": "first3_high_p75",
+      "policy": "high",
+      "target_fraction": 0.75,
+      "calibration_quantile": 0.25,
+      "threshold": 0.013412581168326183,
+      "calibration_fraction": 0.7494089834515366
+    },
+    {
+      "condition": "first3_low_p75",
+      "policy": "low",
+      "target_fraction": 0.75,
+      "calibration_quantile": 0.75,
+      "threshold": 0.020088277745248982,
+      "calibration_fraction": 0.7494089834515366
+    },
+    {
+      "condition": "first3_high_p45",
+      "policy": "high",
+      "target_fraction": 0.45,
+      "calibration_quantile": 0.55,
+      "threshold": 0.016561248617253235,
+      "calibration_fraction": 0.450354609929078
+    },
+    {
+      "condition": "first3_low_p45",
+      "policy": "low",
+      "target_fraction": 0.45,
+      "calibration_quantile": 0.45,
+      "threshold": 0.015414396988286373,
+      "calibration_fraction": 0.450354609929078
+    },
+    {
+      "condition": "first3_high_p55",
+      "policy": "high",
+      "target_fraction": 0.55,
+      "calibration_quantile": 0.44999999999999996,
+      "threshold": 0.015414396988286371,
+      "calibration_fraction": 0.549645390070922
+    },
+    {
+      "condition": "first3_low_p55",
+      "policy": "low",
+      "target_fraction": 0.55,
+      "calibration_quantile": 0.55,
+      "threshold": 0.016561248617253235,
+      "calibration_fraction": 0.549645390070922
+    },
+    {
+      "condition": "first3_high_p15",
+      "policy": "high",
+      "target_fraction": 0.15,
+      "calibration_quantile": 0.85,
+      "threshold": 0.02506082743948504,
+      "calibration_fraction": 0.15011820330969267
+    },
+    {
+      "condition": "first3_low_p15",
+      "policy": "low",
+      "target_fraction": 0.15,
+      "calibration_quantile": 0.15,
+      "threshold": 0.01241370177546558,
+      "calibration_fraction": 0.15011820330969267
+    },
+    {
+      "condition": "first3_high_p85",
+      "policy": "high",
+      "target_fraction": 0.85,
+      "calibration_quantile": 0.15000000000000002,
+      "threshold": 0.01241370177546558,
+      "calibration_fraction": 0.8498817966903073
+    },
+    {
+      "condition": "first3_low_p85",
+      "policy": "low",
+      "target_fraction": 0.85,
+      "calibration_quantile": 0.85,
+      "threshold": 0.02506082743948504,
+      "calibration_fraction": 0.8498817966903073
+    },
+    {
+      "condition": "first3_high_p35",
+      "policy": "high",
+      "target_fraction": 0.35,
+      "calibration_quantile": 0.65,
+      "threshold": 0.018122690078910025,
+      "calibration_fraction": 0.34988179669030733
+    },
+    {
+      "condition": "first3_low_p35",
+      "policy": "low",
+      "target_fraction": 0.35,
+      "calibration_quantile": 0.35,
+      "threshold": 0.014381498261680753,
+      "calibration_fraction": 0.34988179669030733
+    },
+    {
+      "condition": "first3_high_p65",
+      "policy": "high",
+      "target_fraction": 0.65,
+      "calibration_quantile": 0.35,
+      "threshold": 0.014381498261680753,
+      "calibration_fraction": 0.6501182033096927
+    },
+    {
+      "condition": "first3_low_p65",
+      "policy": "low",
+      "target_fraction": 0.65,
+      "calibration_quantile": 0.65,
+      "threshold": 0.018122690078910025,
+      "calibration_fraction": 0.6501182033096927
+    }
+  ],
+  "total_new_episodes": 2560,
+  "unique_calibration_states": 846,
+  "configs": [
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p05_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p05_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p05_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p05_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p95_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p95_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p95_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p95_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p25_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p25_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p25_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p25_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p75_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p75_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p75_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p75_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p45_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p45_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p45_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p45_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p55_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p55_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p55_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p55_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p15_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p15_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p15_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p15_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p85_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p85_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p85_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p85_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p35_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p35_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p35_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p35_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p65_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p65_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p65_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p65_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p05_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p05_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p05_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p05_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p95_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p95_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p95_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p95_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p25_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p25_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p25_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p25_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p75_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p75_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p75_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p75_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p45_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p45_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p45_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p45_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p55_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p55_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p55_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p55_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p15_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p15_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p15_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p15_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p85_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p85_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p85_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p85_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p35_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p35_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p35_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p35_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p65_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p65_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p65_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p65_b3.json"
+  ],
+  "reused_baselines": [
+    "clean_weak",
+    "tau3_strong"
+  ],
+  "target_is_calibration_fraction": true,
+  "plot_realized_fraction": true,
+  "stop": "Inherited 600s stall / 3600s batch; original per-card RLT after exit and clearance",
+  "plan_before": {
+    "host": "sz1",
+    "uid": 1003,
+    "boot_id": "9054c800-3209-4d18-b40c-32d849cc6ba3",
+    "python": "/home/chenyiteng/venvs/rlinf-7d07-openpi-robotwin/bin/python",
+    "repo": "/data/chenyiteng/projects/rlinf-shenzhen/worktrees/bc-signal-tau-20261008",
+    "head": "105170b87167a9f86b2d3c98ff2b74c4ec7025c3",
+    "ray_address": "172.17.0.1:6389",
+    "ray_dashboard_url": "http://127.0.0.1:8266",
+    "plan_path": "/data/chenyiteng/deployment-20261008/bc-signal-tau-v1/plan.json",
+    "slots": {
+      "4": {
+        "gpu_uuid": "GPU-9200fbe8-fdd0-93ae-c221-5f0e9d318bf5",
+        "fallback": "/data/chenyiteng/deployment-20261019/pi05-noise-early-c20-sz1-v2/fallback-g4.json",
+        "external_release": "/data/chenyiteng/deployment-20261020/clean-weak-c20-sz1-v1/sequence-released.json",
+        "external_identity": {
+          "pid": 2186970,
+          "uid": 1003,
+          "start": 538620672,
+          "state": "R"
+        }
+      },
+      "5": {
+        "gpu_uuid": "GPU-3bbde6c0-3ddc-ec10-1d69-c3bc7855704e",
+        "fallback": "/data/chenyiteng/deployment-20261019/pi05-noise-early-c20-sz1-v2/fallback-g5.json",
+        "external_release": "/data/chenyiteng/deployment-20261020/clean-weak-c20-sz1-v1/sequence-released.json",
+        "external_identity": {
+          "pid": 2186970,
+          "uid": 1003,
+          "start": 538620672,
+          "state": "R"
+        }
+      },
+      "6": {
+        "gpu_uuid": "GPU-daa75ed0-9080-a1fc-cb5c-f779251d88d2",
+        "fallback": "/data/chenyiteng/deployment-20261017/pi05-strong-c20-eval-v3/fallback-g6.json",
+        "external_release": "/data/chenyiteng/deployment-20261020/grpo-u-signed-tau123-v1/released.json",
+        "external_identity": {
+          "pid": 948163,
+          "uid": 1003,
+          "start": 535319072,
+          "state": "R"
+        }
+      },
+      "7": {
+        "gpu_uuid": "GPU-00171f89-03fd-5703-b1aa-f5a29f6067ba",
+        "fallback": "/data/chenyiteng/deployment-20261017/pi05-strong-c20-eval-v3/fallback-g7.json",
+        "external_release": "/data/chenyiteng/deployment-20261020/grpo-u-signed-tau123-v1/released.json",
+        "external_identity": {
+          "pid": 948163,
+          "uid": 1003,
+          "start": 535319072,
+          "state": "R"
+        }
+      }
+    }
+  },
+  "owner_before": {
+    "pid": 2186981,
+    "uid": 1003,
+    "start": 538620683,
+    "state": "R"
+  }
+}

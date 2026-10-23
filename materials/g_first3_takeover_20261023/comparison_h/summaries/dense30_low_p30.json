@@ -1,0 +1,56 @@
+{
+  "condition": "dense30_low_p30",
+  "takeover_mode": "weights",
+  "fraction_definition": "selected decisions / active decisions; selected submitted actions / all submitted actions",
+  "episodes": 128,
+  "successes": 59,
+  "success_rate": 0.4609375,
+  "wilson95": [
+    0.3769811559809195,
+    0.5471701687279483
+  ],
+  "unique_actual_seeds": 128,
+  "native_seed_retries": 0,
+  "inference_seconds": 61.442844790406525,
+  "env_seconds": 5713.668197357096,
+  "strong_fraction": 0.2920962199312715,
+  "submitted_strong_fraction": 0.2920962199312715,
+  "source_batches": [
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-migrated-sz1-20261022/batches/dense30_low_p30_b0",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-migrated-sz1-20261022/batches/dense30_low_p30_b1",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-migrated-sz1-20261022/batches/dense30_low_p30_b2",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-migrated-sz1-20261022/batches/dense30_low_p30_b3"
+  ],
+  "eligible_decisions": 1164,
+  "eligible_strong_fraction": 0.2920962199312715,
+  "first_three": {
+    "decisions": 384,
+    "strong": 127,
+    "fraction": 0.3307291666666667
+  },
+  "after_three": {
+    "decisions": 780,
+    "strong": 213,
+    "fraction": 0.27307692307692305
+  },
+  "first_two": {
+    "decisions": 256,
+    "strong": 60,
+    "fraction": 0.234375
+  },
+  "later": {
+    "decisions": 908,
+    "strong": 280,
+    "fraction": 0.30837004405286345
+  },
+  "execute_chunk": 20,
+  "max_takeover_queries": null,
+  "paired_with_weak": {
+    "baseline": "clean_weak",
+    "matched": 128,
+    "gained": 20,
+    "lost": 6,
+    "difference": 0.109375,
+    "all_128_matched": true
+  }
+}

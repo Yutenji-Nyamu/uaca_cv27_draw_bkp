@@ -1,0 +1,8 @@
+{
+  "episodes": 2560,
+  "decisions": 23412,
+  "G_full_points": 20,
+  "H_full_points": 20,
+  "after_chunk3_strong": 0,
+  "check": "Reaggregated G success counts match saved summaries; no hashes."
+}

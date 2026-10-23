@@ -1,0 +1,145 @@
+{
+  "gpu": 5,
+  "stages": [
+    {
+      "condition": "first3_high_p05",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p05_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p05_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p05",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p05_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p05_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_high_p95",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p95_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p95_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p95",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p95_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p95_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_high_p25",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p25_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p25_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p25",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p25_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p25_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_high_p75",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p75_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p75_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p75",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p75_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p75_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_high_p45",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p45_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p45_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p45",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p45_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p45_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_high_p55",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p55_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p55_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p55",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p55_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p55_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_high_p15",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p15_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p15_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p15",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p15_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p15_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_high_p85",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p85_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p85_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p85",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p85_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p85_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_high_p35",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p35_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p35_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p35",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p35_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p35_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_high_p65",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p65_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_high_p65_b3.json"
+      ]
+    },
+    {
+      "condition": "first3_low_p65",
+      "configs": [
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p65_b1.json",
+        "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1/configs/first3_low_p65_b3.json"
+      ]
+    }
+  ]
+}

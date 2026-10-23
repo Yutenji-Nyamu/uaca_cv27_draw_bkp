@@ -1,0 +1,385 @@
+{
+  "time": 1792559326.0834846,
+  "source": "/home/nvme/team-data/chenyiteng/projects/rlinf-shenzhen/worktrees/pi05-clean-c20-followups-20261021",
+  "output": "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-migrated-sz1-20261022",
+  "mode": "dense30",
+  "cards": [
+    6,
+    7
+  ],
+  "weak": "/data/chenyiteng/models/protected-eval/pillbottle/clean_c17_cp140/full_weights.pt",
+  "strong": "/data/chenyiteng/models/protected-eval/pillbottle/grpo_u_tau3_cp70/full_weights.pt",
+  "H": 50,
+  "C": 20,
+  "N": 10,
+  "step_limit": 200,
+  "max_takeover_queries": null,
+  "per_card_parallelism": 32,
+  "episodes_per_condition": 128,
+  "conditions": [
+    {
+      "condition": "dense30_high_p03",
+      "policy": "high",
+      "target_fraction": 0.03,
+      "calibration_quantile": 0.97,
+      "threshold": 0.07406847364413385,
+      "calibration_fraction": 0.030003141690229343
+    },
+    {
+      "condition": "dense30_low_p03",
+      "policy": "low",
+      "target_fraction": 0.03,
+      "calibration_quantile": 0.03,
+      "threshold": 0.01096005704726669,
+      "calibration_fraction": 0.030003141690229343
+    },
+    {
+      "condition": "dense30_high_p30",
+      "policy": "high",
+      "target_fraction": 0.3,
+      "calibration_quantile": 0.7,
+      "threshold": 0.02525275994114015,
+      "calibration_fraction": 0.30003141690229346
+    },
+    {
+      "condition": "dense30_low_p30",
+      "policy": "low",
+      "target_fraction": 0.3,
+      "calibration_quantile": 0.3,
+      "threshold": 0.015416759069431588,
+      "calibration_fraction": 0.30003141690229346
+    },
+    {
+      "condition": "dense30_high_p15",
+      "policy": "high",
+      "target_fraction": 0.15,
+      "calibration_quantile": 0.85,
+      "threshold": 0.038743748376098515,
+      "calibration_fraction": 0.15001570845114673
+    },
+    {
+      "condition": "dense30_low_p15",
+      "policy": "low",
+      "target_fraction": 0.15,
+      "calibration_quantile": 0.15,
+      "threshold": 0.013500110405957002,
+      "calibration_fraction": 0.15001570845114673
+    },
+    {
+      "condition": "dense30_high_p06",
+      "policy": "high",
+      "target_fraction": 0.06,
+      "calibration_quantile": 0.94,
+      "threshold": 0.057791635535936796,
+      "calibration_fraction": 0.060006283380458686
+    },
+    {
+      "condition": "dense30_low_p06",
+      "policy": "low",
+      "target_fraction": 0.06,
+      "calibration_quantile": 0.06,
+      "threshold": 0.011914098477007062,
+      "calibration_fraction": 0.060006283380458686
+    },
+    {
+      "condition": "dense30_high_p27",
+      "policy": "high",
+      "target_fraction": 0.27,
+      "calibration_quantile": 0.73,
+      "threshold": 0.027042999904190845,
+      "calibration_fraction": 0.2700282752120641
+    },
+    {
+      "condition": "dense30_low_p27",
+      "policy": "low",
+      "target_fraction": 0.27,
+      "calibration_quantile": 0.27,
+      "threshold": 0.015019102409274003,
+      "calibration_fraction": 0.2700282752120641
+    },
+    {
+      "condition": "dense30_high_p12",
+      "policy": "high",
+      "target_fraction": 0.12,
+      "calibration_quantile": 0.88,
+      "threshold": 0.04290622109658639,
+      "calibration_fraction": 0.12001256676091737
+    },
+    {
+      "condition": "dense30_low_p12",
+      "policy": "low",
+      "target_fraction": 0.12,
+      "calibration_quantile": 0.12,
+      "threshold": 0.013009735678726674,
+      "calibration_fraction": 0.12001256676091737
+    },
+    {
+      "condition": "dense30_high_p21",
+      "policy": "high",
+      "target_fraction": 0.21,
+      "calibration_quantile": 0.79,
+      "threshold": 0.03183860510034968,
+      "calibration_fraction": 0.21002199183160541
+    },
+    {
+      "condition": "dense30_low_p21",
+      "policy": "low",
+      "target_fraction": 0.21,
+      "calibration_quantile": 0.21,
+      "threshold": 0.014270132655177693,
+      "calibration_fraction": 0.21002199183160541
+    },
+    {
+      "condition": "dense30_high_p09",
+      "policy": "high",
+      "target_fraction": 0.09,
+      "calibration_quantile": 0.91,
+      "threshold": 0.04901330462238097,
+      "calibration_fraction": 0.09000942507068803
+    },
+    {
+      "condition": "dense30_low_p09",
+      "policy": "low",
+      "target_fraction": 0.09,
+      "calibration_quantile": 0.09,
+      "threshold": 0.012549679674268193,
+      "calibration_fraction": 0.09000942507068803
+    },
+    {
+      "condition": "dense30_high_p24",
+      "policy": "high",
+      "target_fraction": 0.24,
+      "calibration_quantile": 0.76,
+      "threshold": 0.029116029575575554,
+      "calibration_fraction": 0.24002513352183474
+    },
+    {
+      "condition": "dense30_low_p24",
+      "policy": "low",
+      "target_fraction": 0.24,
+      "calibration_quantile": 0.24,
+      "threshold": 0.014685123996527147,
+      "calibration_fraction": 0.24002513352183474
+    },
+    {
+      "condition": "dense30_high_p18",
+      "policy": "high",
+      "target_fraction": 0.18,
+      "calibration_quantile": 0.8200000000000001,
+      "threshold": 0.03496197914643009,
+      "calibration_fraction": 0.18001885014137606
+    },
+    {
+      "condition": "dense30_low_p18",
+      "policy": "low",
+      "target_fraction": 0.18,
+      "calibration_quantile": 0.18,
+      "threshold": 0.013926205722335466,
+      "calibration_fraction": 0.18001885014137606
+    }
+  ],
+  "total_new_episodes": 2560,
+  "unique_calibration_states": 6366,
+  "configs": [
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p03_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p03_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p03_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p03_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p30_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p30_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p30_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p30_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p15_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p15_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p15_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p15_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p06_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p06_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p06_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p06_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p27_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p27_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p27_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p27_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p12_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p12_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p12_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p12_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p21_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p21_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p21_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p21_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p09_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p09_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p09_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p09_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p24_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p24_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p24_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p24_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p18_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p18_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p18_b0.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p18_b2.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p03_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p03_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p03_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p03_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p30_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p30_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p30_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p30_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p15_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p15_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p15_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p15_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p06_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p06_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p06_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p06_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p27_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p27_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p27_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p27_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p12_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p12_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p12_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p12_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p21_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p21_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p21_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p21_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p09_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p09_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p09_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p09_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p24_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p24_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p24_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p24_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p18_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_high_p18_b3.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p18_b1.json",
+    "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1/configs/dense30_low_p18_b3.json"
+  ],
+  "reused_baselines": [
+    "clean_weak",
+    "tau3_strong"
+  ],
+  "target_is_calibration_fraction": true,
+  "plot_realized_fraction": true,
+  "stop": "Inherited 600s stall / 3600s batch; original per-card RLT after exit and clearance",
+  "plan_before": {
+    "host": "sz3",
+    "uid": 20001,
+    "boot_id": "47e64b8d-f02b-4dc3-bcdc-e37000390e2b",
+    "python": "/home/chenyiteng/venvs/rlinf-7d07-openpi-robotwin/bin/python",
+    "repo": "/data/chenyiteng/projects/rlinf-shenzhen/worktrees/bc-signal-tau-20261008",
+    "head": "105170b87167a9f86b2d3c98ff2b74c4ec7025c3",
+    "ray_address": "127.0.0.1:26379",
+    "ray_dashboard_url": "http://127.0.0.1:28266",
+    "plan_path": "/data/chenyiteng/deployment-20261008/bc-signal-tau-v1/plan.json",
+    "slots": {
+      "4": {
+        "gpu_uuid": "GPU-6c7afe5c-5238-60af-3ce2-329b3497133c",
+        "fallback": "/data/chenyiteng/deployment-20261013/expo-editor-u-tau123-v1/fallback-g4.json",
+        "external_release": "/data/chenyiteng/deployment-20261020/grpo-u-signed-tau123-v1/released.json",
+        "external_identity": {
+          "pid": 1016223,
+          "uid": 20001,
+          "start": 843697403,
+          "state": "R"
+        }
+      },
+      "5": {
+        "gpu_uuid": "GPU-e656886b-e472-125f-6139-5ade9cf609a4",
+        "fallback": "/data/chenyiteng/deployment-20261013/expo-editor-u-tau123-v1/fallback-g5.json",
+        "external_release": "/data/chenyiteng/deployment-20261020/grpo-u-signed-tau123-v1/released.json",
+        "external_identity": {
+          "pid": 1016223,
+          "uid": 20001,
+          "start": 843697403,
+          "state": "R"
+        }
+      },
+      "6": {
+        "gpu_uuid": "GPU-fd35b6f1-d724-0bda-2444-7c75ba5c2715",
+        "fallback": "/data/chenyiteng/deployment-20261018/cp180-threshold-sweep-sz3-v1/fallback-g6.json",
+        "external_release": "/data/chenyiteng/deployment-20261020/attn-objects-sz3-v1/lane-g6-released.json",
+        "external_identity": {
+          "pid": 427725,
+          "uid": 20001,
+          "start": 847051148,
+          "state": "R"
+        }
+      },
+      "7": {
+        "gpu_uuid": "GPU-0423def8-ef84-a808-6582-7dc2130f58fc",
+        "fallback": "/data/chenyiteng/deployment-20261018/cp180-threshold-sweep-sz3-v1/fallback-g7.json",
+        "external_release": "/data/chenyiteng/deployment-20261020/attn-objects-sz3-v1/lane-g7-released.json",
+        "external_identity": {
+          "pid": 427726,
+          "uid": 20001,
+          "start": 847051159,
+          "state": "R"
+        }
+      }
+    }
+  },
+  "owner_before": {
+    "pid": 427727,
+    "uid": 20001,
+    "start": 847051169,
+    "state": "R"
+  },
+  "rlt_before": [
+    {
+      "gpu": "6",
+      "identity": {
+        "pid": 3635723,
+        "uid": 20001,
+        "start": 852356227,
+        "state": "S"
+      },
+      "request_path": "/data/chenyiteng/deployment-20261018/cp180-threshold-sweep-sz3-v1/fallback-g6.json",
+      "request": {
+        "kind": "rlt",
+        "gpu": 6,
+        "repo": "/data/chenyiteng/projects/rlinf-shenzhen/worktrees/pi05-rlt-step-timeout-sz3-20261003",
+        "run": "/data/chenyiteng/results/rlinf-rlt/rlt-sz3-g6-after-cp180-sweep-1018",
+        "runtime": "/data/chenyiteng/results/rlinf-rlt/rlt-sz3-g6-after-cp180-sweep-1018/runtime",
+        "namespace": "rlt-sz3-g6-after-cp180-sweep-1018",
+        "checkpoint": "/data/chenyiteng/results/rlinf-rlt/rlt-h100-gpu01-g6-after-editor-u-1013/rlt-h100-gpu01-g6-after-editor-u-1013/checkpoints/global_step_250",
+        "step": 250
+      }
+    },
+    {
+      "gpu": "7",
+      "identity": {
+        "pid": 573767,
+        "uid": 20001,
+        "start": 852419595,
+        "state": "R"
+      },
+      "request_path": "/data/chenyiteng/deployment-20261018/cp180-threshold-sweep-sz3-v1/fallback-g7.json",
+      "request": {
+        "kind": "rlt",
+        "gpu": 7,
+        "repo": "/data/chenyiteng/projects/rlinf-shenzhen/worktrees/pi05-rlt-step-timeout-sz3-20261003",
+        "run": "/data/chenyiteng/results/rlinf-rlt/rlt-sz3-g7-after-cp180-sweep-1018",
+        "runtime": "/data/chenyiteng/results/rlinf-rlt/rlt-sz3-g7-after-cp180-sweep-1018/runtime",
+        "namespace": "rlt-sz3-g7-after-cp180-sweep-1018",
+        "checkpoint": "/data/chenyiteng/results/rlinf-rlt/rlt-h100-gpu01-g7-after-editor-u-1013/rlt-h100-gpu01-g7-after-editor-u-1013/checkpoints/global_step_250",
+        "step": 250
+      }
+    }
+  ],
+  "transaction": "/data/chenyiteng/deployment-20261021/clean-c20-dense30-sz3-v1-recovery1",
+  "recovery_of": "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-20261021-v1",
+  "timeouts": {
+    "environment_step": 1200,
+    "stall": 1800,
+    "batch": 10800
+  },
+  "max_attempts": 2
+}

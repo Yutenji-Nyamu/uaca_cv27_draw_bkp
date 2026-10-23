@@ -1,0 +1,27 @@
+{
+  "export_time": 1792739176.8633814,
+  "source_root": "/data/chenyiteng/results/pi05-policy-eval/clean-c20-first3-20261021-v1",
+  "runtime_root": "/data/chenyiteng/deployment-20261021/clean-c20-first3-sz1-v1",
+  "source_checkout": "/data/chenyiteng/projects/rlinf-shenzhen/worktrees/pi05-clean-c20-followups-20261021",
+  "source_commit_at_export": "",
+  "episodes": 2560,
+  "decisions": 23412,
+  "H_comparison_root": "/data/chenyiteng/results/pi05-policy-eval/clean-c20-dense30-migrated-sz1-20261022",
+  "retained_npz_fields": [
+    "u",
+    "active",
+    "before",
+    "selected",
+    "offered",
+    "after",
+    "success_after"
+  ],
+  "excluded": [
+    "model weights",
+    "videos",
+    "raw image observations",
+    "controller action arrays",
+    "frame maps and full controller tick logs"
+  ],
+  "note": "The raw directory is sufficient for success/takeover curves and action-U/chunk-decision plots; media remains at original paths. Runtime snapshot may have a newer checkout commit; configs record original launch provenance."
+}

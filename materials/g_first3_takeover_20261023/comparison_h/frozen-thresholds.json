@@ -1,0 +1,183 @@
+{
+  "conditions": [
+    {
+      "condition": "dense30_high_p03",
+      "policy": "high",
+      "target_fraction": 0.03,
+      "calibration_quantile": 0.97,
+      "threshold": 0.07406847364413385,
+      "calibration_fraction": 0.030003141690229343
+    },
+    {
+      "condition": "dense30_low_p03",
+      "policy": "low",
+      "target_fraction": 0.03,
+      "calibration_quantile": 0.03,
+      "threshold": 0.01096005704726669,
+      "calibration_fraction": 0.030003141690229343
+    },
+    {
+      "condition": "dense30_high_p30",
+      "policy": "high",
+      "target_fraction": 0.3,
+      "calibration_quantile": 0.7,
+      "threshold": 0.02525275994114015,
+      "calibration_fraction": 0.30003141690229346
+    },
+    {
+      "condition": "dense30_low_p30",
+      "policy": "low",
+      "target_fraction": 0.3,
+      "calibration_quantile": 0.3,
+      "threshold": 0.015416759069431588,
+      "calibration_fraction": 0.30003141690229346
+    },
+    {
+      "condition": "dense30_high_p15",
+      "policy": "high",
+      "target_fraction": 0.15,
+      "calibration_quantile": 0.85,
+      "threshold": 0.038743748376098515,
+      "calibration_fraction": 0.15001570845114673
+    },
+    {
+      "condition": "dense30_low_p15",
+      "policy": "low",
+      "target_fraction": 0.15,
+      "calibration_quantile": 0.15,
+      "threshold": 0.013500110405957002,
+      "calibration_fraction": 0.15001570845114673
+    },
+    {
+      "condition": "dense30_high_p06",
+      "policy": "high",
+      "target_fraction": 0.06,
+      "calibration_quantile": 0.94,
+      "threshold": 0.057791635535936796,
+      "calibration_fraction": 0.060006283380458686
+    },
+    {
+      "condition": "dense30_low_p06",
+      "policy": "low",
+      "target_fraction": 0.06,
+      "calibration_quantile": 0.06,
+      "threshold": 0.011914098477007062,
+      "calibration_fraction": 0.060006283380458686
+    },
+    {
+      "condition": "dense30_high_p27",
+      "policy": "high",
+      "target_fraction": 0.27,
+      "calibration_quantile": 0.73,
+      "threshold": 0.027042999904190845,
+      "calibration_fraction": 0.2700282752120641
+    },
+    {
+      "condition": "dense30_low_p27",
+      "policy": "low",
+      "target_fraction": 0.27,
+      "calibration_quantile": 0.27,
+      "threshold": 0.015019102409274003,
+      "calibration_fraction": 0.2700282752120641
+    },
+    {
+      "condition": "dense30_high_p12",
+      "policy": "high",
+      "target_fraction": 0.12,
+      "calibration_quantile": 0.88,
+      "threshold": 0.04290622109658639,
+      "calibration_fraction": 0.12001256676091737
+    },
+    {
+      "condition": "dense30_low_p12",
+      "policy": "low",
+      "target_fraction": 0.12,
+      "calibration_quantile": 0.12,
+      "threshold": 0.013009735678726674,
+      "calibration_fraction": 0.12001256676091737
+    },
+    {
+      "condition": "dense30_high_p21",
+      "policy": "high",
+      "target_fraction": 0.21,
+      "calibration_quantile": 0.79,
+      "threshold": 0.03183860510034968,
+      "calibration_fraction": 0.21002199183160541
+    },
+    {
+      "condition": "dense30_low_p21",
+      "policy": "low",
+      "target_fraction": 0.21,
+      "calibration_quantile": 0.21,
+      "threshold": 0.014270132655177693,
+      "calibration_fraction": 0.21002199183160541
+    },
+    {
+      "condition": "dense30_high_p09",
+      "policy": "high",
+      "target_fraction": 0.09,
+      "calibration_quantile": 0.91,
+      "threshold": 0.04901330462238097,
+      "calibration_fraction": 0.09000942507068803
+    },
+    {
+      "condition": "dense30_low_p09",
+      "policy": "low",
+      "target_fraction": 0.09,
+      "calibration_quantile": 0.09,
+      "threshold": 0.012549679674268193,
+      "calibration_fraction": 0.09000942507068803
+    },
+    {
+      "condition": "dense30_high_p24",
+      "policy": "high",
+      "target_fraction": 0.24,
+      "calibration_quantile": 0.76,
+      "threshold": 0.029116029575575554,
+      "calibration_fraction": 0.24002513352183474
+    },
+    {
+      "condition": "dense30_low_p24",
+      "policy": "low",
+      "target_fraction": 0.24,
+      "calibration_quantile": 0.24,
+      "threshold": 0.014685123996527147,
+      "calibration_fraction": 0.24002513352183474
+    },
+    {
+      "condition": "dense30_high_p18",
+      "policy": "high",
+      "target_fraction": 0.18,
+      "calibration_quantile": 0.8200000000000001,
+      "threshold": 0.03496197914643009,
+      "calibration_fraction": 0.18001885014137606
+    },
+    {
+      "condition": "dense30_low_p18",
+      "policy": "low",
+      "target_fraction": 0.18,
+      "calibration_quantile": 0.18,
+      "threshold": 0.013926205722335466,
+      "calibration_fraction": 0.18001885014137606
+    }
+  ],
+  "frozen": {
+    "time": 1792559104.4802997,
+    "source": "/data/chenyiteng/results/pi05-policy-eval/clean-weak-c20-20261020-v1",
+    "outcome_blind": true,
+    "same_128_seeds_reused": true,
+    "exploratory": true,
+    "counts": {
+      "dense30": {
+        "raw": 16871,
+        "unique": 6366
+      },
+      "first3": {
+        "raw": 5568,
+        "unique": 846
+      }
+    }
+  },
+  "unique_decisions": 6366,
+  "max_takeover_queries": null
+}

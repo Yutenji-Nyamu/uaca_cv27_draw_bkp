@@ -1,0 +1,3 @@
+high,low,n,high_only,low_only,success_difference,approx95_low,approx95_high
+first3_high_p35,first3_low_p55,128,24,16,0.0625,-0.03373757022013285,0.15873757022013285
+first3_high_p75,first3_low_p85,128,17,8,0.0703125,-0.005274795086322531,0.14589979508632253
