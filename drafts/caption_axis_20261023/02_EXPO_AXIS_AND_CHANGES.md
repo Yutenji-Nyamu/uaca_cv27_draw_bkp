@@ -1,3 +1,5 @@
+> 状态：本页 A/B 横轴方案已弃用。当前修正版见 ../expo_axis_match_20261023/README.md。
+
 # EXPO 横轴来源、两版候选与修改记录
 
 日期：2026-10-23。修改起点为当前 `final/head/UACA_head_simple.drawio` 的 A 版（2026-10-22）。

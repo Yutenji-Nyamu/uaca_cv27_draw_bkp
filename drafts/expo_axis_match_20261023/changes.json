@@ -1,0 +1,28 @@
+{
+  "source": "E:\\0school\\研二上\\cvpr\\uaca\\draw\\final\\head\\UACA_head_simple.drawio",
+  "changed": [
+    "r2_EXPO_xt0",
+    "r2_EXPO_xt1",
+    "r2_EXPO_xt2",
+    "r2_EXPO_xt3",
+    "r2_EXPO_xaxis"
+  ],
+  "axes_title": [
+    "Training Steps",
+    "Training Steps",
+    "Training Steps"
+  ],
+  "axis_format": "full integers, no k suffix",
+  "ticks": [
+    "10000",
+    "20000",
+    "30000"
+  ],
+  "data": "same cumulative online training actions; x range 7493 to 35000",
+  "non_axis_changes": 0,
+  "overleaf": {
+    "added": 0,
+    "modified": 0,
+    "deleted": 0
+  }
+}

@@ -1,3 +1,5 @@
+> AXIS CANDIDATES REJECTED. The corrected axis is in ../expo_axis_match_20261023/. Caption research remains current.
+
 # UACA caption and EXPO axis candidates · 2026-10-23
 
 Chinese figure-caption references (17 papers), four UACA caption proposals, and two minimal EXPO x-axis alternatives.
