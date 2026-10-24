@@ -8,3 +8,5 @@
 2026-10-24 R2：分析图统一坐标字体，首帧用 Initial motion；主图统一粉色 Update；保留用户最新手动布局。两份 PDF 已更新至 Overleaf，云端编译 6 页、零错误、零警告。
 
 [批注候选材料](../candidates/final_comments_r2_20261024/README.md)
+
+2026-10-24 补采选图：主图两处 Env & Verifier 已采用 seed 340500 / frame 184 的对面视角。

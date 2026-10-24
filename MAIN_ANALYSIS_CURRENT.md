@@ -7,3 +7,5 @@
 - [本轮三页候选](candidates/final_comments_r2_20261024/README.md)
 
 2026-10-24 R2：最新批注已处理并更新 Overleaf。原始视频、控制日志、观测数组和完整 Excel 保存在本地。
+
+2026-10-24 补采选图：主图两处 Env & Verifier 已替换为选定 observer 帧（seed 340500 / frame 184）；Overleaf 同步完成。
