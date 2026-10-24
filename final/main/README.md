@@ -1,10 +1,8 @@
-# UACA main — 当前正式版
+# UACA main · 当前正式版
 
-2026-10-24 批注修订，后续从本目录的 Draw.io 继续修改。
+2026-10-24 R2：两处 Update 统一为批注指定粉色样式；保留手动位置与 H 上标。
 
-- `UACA_main.drawio`：单页原生可编辑源文件。
-- `UACA_main.pdf`：矢量 PDF，约 1.5 px 白边。
-- `UACA_main.png`：当前预览。
-- `uaca_method.tex`：当前英文 caption 与会议模板插图。
+- [Draw.io](UACA_main.drawio) · [PDF](UACA_main.pdf) · [PNG](UACA_main.png)
+- [当前 caption](uaca_method.tex)
 
-论文图 3，GRPO / Filtered BC 两个实例。
+后续从本目录继续修改。
