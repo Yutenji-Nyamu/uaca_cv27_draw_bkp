@@ -1,0 +1,18 @@
+{
+  "340500": [
+    {"frame": 0, "stage": "Initial"},
+    {"frame": 31, "stage": "Approach"},
+    {"frame": 82, "stage": "Grasp"},
+    {"frame": 112, "stage": "Burger over tray"},
+    {"frame": 184, "stage": "Burger placed"},
+    {"frame": 235, "stage": "Task success"}
+  ],
+  "340700": [
+    {"frame": 0, "stage": "Initial"},
+    {"frame": 31, "stage": "Approach"},
+    {"frame": 83, "stage": "Grasp"},
+    {"frame": 115, "stage": "Burger over tray"},
+    {"frame": 188, "stage": "Burger placed"},
+    {"frame": 240, "stage": "Task success"}
+  ]
+}

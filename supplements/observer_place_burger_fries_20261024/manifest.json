@@ -1,0 +1,164 @@
+{
+  "task": "place_burger_fries",
+  "reference": "N39",
+  "episodes": [
+    {
+      "seed": 340500,
+      "slot": 7,
+      "success": true,
+      "assets": {
+        "{A}": "006_hamburg/base3",
+        "{B}": "008_tray/base1",
+        "{C}": "005_french-fries/base0"
+      },
+      "observer_video": "selected/seed_340500/observer.mp4",
+      "head_video": "selected/seed_340500/head.mp4",
+      "raw_observer_video": "raw/episode_07_observer.mp4",
+      "raw_head_video": "raw/episode_07.mp4",
+      "frame_map": "raw/episode_07_frames.json",
+      "selected_frames": [
+        {
+          "stage": "Initial",
+          "image": "seed340500_frame0000.png",
+          "frame": 0,
+          "physics_step": 0,
+          "query": -1,
+          "left_action_projection": null,
+          "right_action_projection": null
+        },
+        {
+          "stage": "Approach",
+          "image": "seed340500_frame0031.png",
+          "frame": 31,
+          "physics_step": 310,
+          "query": 0,
+          "left_action_projection": 29.71274031402054,
+          "right_action_projection": 29.985801377387954
+        },
+        {
+          "stage": "Grasp",
+          "image": "seed340500_frame0082.png",
+          "frame": 82,
+          "physics_step": 820,
+          "query": 1,
+          "left_action_projection": 83.1569050378225,
+          "right_action_projection": 80.00747237976438
+        },
+        {
+          "stage": "Burger over tray",
+          "image": "seed340500_frame0112.png",
+          "frame": 112,
+          "physics_step": 1120,
+          "query": 2,
+          "left_action_projection": 108.39873942405492,
+          "right_action_projection": 109.60004463261292
+        },
+        {
+          "stage": "Burger placed",
+          "image": "seed340500_frame0184.png",
+          "frame": 184,
+          "physics_step": 1840,
+          "query": 3,
+          "left_action_projection": 183.09745416919154,
+          "right_action_projection": 183.37473354402766
+        },
+        {
+          "stage": "Task success",
+          "image": "seed340500_frame0235.png",
+          "frame": 235,
+          "physics_step": 2344,
+          "query": 4,
+          "left_action_projection": 235.02002109072117,
+          "right_action_projection": 233.89186936045402
+        }
+      ]
+    },
+    {
+      "seed": 340700,
+      "slot": 14,
+      "success": true,
+      "assets": {
+        "{A}": "006_hamburg/base3",
+        "{B}": "008_tray/base1",
+        "{C}": "005_french-fries/base0"
+      },
+      "observer_video": "selected/seed_340700/observer.mp4",
+      "head_video": "selected/seed_340700/head.mp4",
+      "raw_observer_video": "raw/episode_14_observer.mp4",
+      "raw_head_video": "raw/episode_14.mp4",
+      "frame_map": "raw/episode_14_frames.json",
+      "selected_frames": [
+        {
+          "stage": "Initial",
+          "image": "seed340700_frame0000.png",
+          "frame": 0,
+          "physics_step": 0,
+          "query": -1,
+          "left_action_projection": null,
+          "right_action_projection": null
+        },
+        {
+          "stage": "Approach",
+          "image": "seed340700_frame0031.png",
+          "frame": 31,
+          "physics_step": 310,
+          "query": 0,
+          "left_action_projection": 29.95187157344435,
+          "right_action_projection": 27.683634558932102
+        },
+        {
+          "stage": "Grasp",
+          "image": "seed340700_frame0083.png",
+          "frame": 83,
+          "physics_step": 830,
+          "query": 1,
+          "left_action_projection": 80.67388417555414,
+          "right_action_projection": 79.3917493308687
+        },
+        {
+          "stage": "Burger over tray",
+          "image": "seed340700_frame0115.png",
+          "frame": 115,
+          "physics_step": 1150,
+          "query": 2,
+          "left_action_projection": 111.04243549921105,
+          "right_action_projection": 114.06467987521361
+        },
+        {
+          "stage": "Burger placed",
+          "image": "seed340700_frame0188.png",
+          "frame": 188,
+          "physics_step": 1880,
+          "query": 3,
+          "left_action_projection": 187.7582787062755,
+          "right_action_projection": 188.5905086110748
+        },
+        {
+          "stage": "Task success",
+          "image": "seed340700_frame0240.png",
+          "frame": 240,
+          "physics_step": 2391,
+          "query": 4,
+          "left_action_projection": 236.82645791556672,
+          "right_action_projection": 236.3044437606342
+        }
+      ]
+    }
+  ],
+  "batch_episodes": 16,
+  "assets": {
+    "{A}": "006_hamburg/base3",
+    "{B}": "008_tray/base1",
+    "{C}": "005_french-fries/base0"
+  },
+  "mapping": "shared frame and physics tick; model action index via per-arm geometric projection",
+  "old_batch_comparison": {
+    "same_initial_noise": true,
+    "target_first_action_max_abs_diff": 0.0
+  },
+  "overleaf_changes": {
+    "added": 0,
+    "modified": 0,
+    "deleted": 0
+  }
+}
