@@ -1,3 +1,13 @@
+## In-photo equipment labels · 2026-10-27
+
+The current first page uses blue in-photo labels. Page 2 compares five palette variants; page 3 contains task-instruction alternatives. Historical drafts and annotations remain after them (26 pages total).
+
+The setup photograph retains the tabletop task props, the right-side robot arm, and both cameras. Native labels identify the UR5e robot, wrist camera, and external camera, including the D435i RGB-D model. Sorting OOD is O13 (lighting); drawer OOD is O19 (object color). RoboDojo and task instructions follow the latest annotations.
+
+[Current figure](previews/assembled.png) · [Five palettes](previews/inphoto_palette_comparison.png) · [Blue/orange figure](previews/inphoto_mixed.png) · [Wording options](previews/wording_options.png) · [Vector PDF](UACA_real_world_scenes_20261027.pdf)
+
+Overleaf additions / modifications / deletions: 0 / 0 / 0. Raw recordings remain local.
+
 ## Selected assembly · 2026-10-26
 
 The current assembly is the first page of the 21-page Draw.io file. Each task now shows its initial, intermediate, and final state. The selected OOD, setup, RoboTwin, and Dojo images are inserted; all three overview photographs use square framing.
