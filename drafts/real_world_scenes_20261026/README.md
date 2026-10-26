@@ -1,3 +1,11 @@
+## Selected assembly · 2026-10-26
+
+The current assembly is the first page of the 21-page Draw.io file. Each task now shows its initial, intermediate, and final state. The selected OOD, setup, RoboTwin, and Dojo images are inserted; all three overview photographs use square framing.
+
+[Current preview](previews/assembled.png) · [Vector PDF](UACA_real_world_scenes_assembled_20261026.pdf)
+
+Overleaf additions / modifications / deletions: 0 / 0 / 0. The earlier 20 pages remain in the book.
+
 # Real-world scenes draft · 2026-10-26
 
 Editable 20-page Draw.io: two layout drafts, the native DVCA reference, four selected real-world task sequences, OOD/scene-variation candidates, ten setup photos, and RoboTwin/Dojo scene candidates.
