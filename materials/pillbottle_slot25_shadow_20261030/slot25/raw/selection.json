@@ -1,0 +1,204 @@
+{
+  "slot": 25,
+  "queries": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "source": "/home/chenyiteng/results/pi05-distill/fqlfix-shadow-sz1-20261029/teacher-shadow/batch0",
+  "schema": {
+    "query.initial_noise_full": {
+      "shape": [
+        32,
+        50,
+        32
+      ],
+      "dtype": "float32"
+    },
+    "query.final_model_action": {
+      "shape": [
+        32,
+        50,
+        14
+      ],
+      "dtype": "float32"
+    },
+    "query.side_action_model": {
+      "shape": [
+        32,
+        50,
+        14
+      ],
+      "dtype": "float32"
+    },
+    "query.u": {
+      "shape": [
+        32,
+        50
+      ],
+      "dtype": "float64"
+    },
+    "query.active": {
+      "shape": [
+        32
+      ],
+      "dtype": "bool"
+    },
+    "query.before": {
+      "shape": [
+        32
+      ],
+      "dtype": "int64"
+    },
+    "query.noise4_initial_noise": {
+      "shape": [
+        32,
+        4,
+        50,
+        32
+      ],
+      "dtype": "float32"
+    },
+    "query.noise4_model_actions": {
+      "shape": [
+        32,
+        4,
+        50,
+        14
+      ],
+      "dtype": "float32"
+    },
+    "query.noise4_env_actions": {
+      "shape": [
+        32,
+        4,
+        50,
+        14
+      ],
+      "dtype": "float64"
+    },
+    "query.noise4_seed": {
+      "shape": [],
+      "dtype": "int64"
+    },
+    "query.teacher_model_actions": {
+      "shape": [
+        32,
+        50,
+        14
+      ],
+      "dtype": "float32"
+    },
+    "query.teacher_env_actions": {
+      "shape": [
+        32,
+        50,
+        14
+      ],
+      "dtype": "float64"
+    },
+    "query.teacher_initial_noise": {
+      "shape": [
+        32,
+        50,
+        32
+      ],
+      "dtype": "float32"
+    },
+    "query.noise4_u": {
+      "shape": [
+        32,
+        50
+      ],
+      "dtype": "float64"
+    },
+    "query.noise3_without_main_u": {
+      "shape": [
+        32,
+        50
+      ],
+      "dtype": "float64"
+    },
+    "query.teacher_student_difference": {
+      "shape": [
+        32,
+        50,
+        14
+      ],
+      "dtype": "float32"
+    },
+    "query.teacher_student_rmse": {
+      "shape": [
+        32,
+        50
+      ],
+      "dtype": "float32"
+    },
+    "query.env_action": {
+      "shape": [
+        32,
+        50,
+        14
+      ],
+      "dtype": "float32"
+    },
+    "query.selected": {
+      "shape": [
+        32
+      ],
+      "dtype": "bool"
+    },
+    "query.offered": {
+      "shape": [
+        32
+      ],
+      "dtype": "int64"
+    },
+    "query.after": {
+      "shape": [
+        32
+      ],
+      "dtype": "int64"
+    },
+    "query.success_after": {
+      "shape": [
+        32
+      ],
+      "dtype": "bool"
+    },
+    "observation.main_images": {
+      "shape": [
+        32,
+        240,
+        320,
+        3
+      ],
+      "dtype": "uint8"
+    },
+    "observation.wrist_images": {
+      "shape": [
+        32,
+        2,
+        240,
+        320,
+        3
+      ],
+      "dtype": "uint8"
+    },
+    "observation.states": {
+      "shape": [
+        32,
+        14
+      ],
+      "dtype": "float64"
+    },
+    "observation.task_descriptions": {
+      "shape": [
+        32
+      ],
+      "dtype": "<U89"
+    }
+  }
+}

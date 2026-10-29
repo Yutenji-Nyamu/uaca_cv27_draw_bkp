@@ -1,0 +1,500 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2890
+    },
+    {
+      "path": "aggregate_reference/absolute-dispersion.csv",
+      "bytes": 289606
+    },
+    {
+      "path": "aggregate_reference/all-12-successes.pdf",
+      "bytes": 64104
+    },
+    {
+      "path": "aggregate_reference/all-12-successes.png",
+      "bytes": 521158
+    },
+    {
+      "path": "aggregate_reference/all-12-successes.svg",
+      "bytes": 198081
+    },
+    {
+      "path": "aggregate_reference/analysis.json",
+      "bytes": 39852
+    },
+    {
+      "path": "aggregate_reference/conditional-density.pdf",
+      "bytes": 29200
+    },
+    {
+      "path": "aggregate_reference/conditional-density.png",
+      "bytes": 62990
+    },
+    {
+      "path": "aggregate_reference/conditional-density.svg",
+      "bytes": 71009
+    },
+    {
+      "path": "aggregate_reference/density.pdf",
+      "bytes": 34750
+    },
+    {
+      "path": "aggregate_reference/density.png",
+      "bytes": 201585
+    },
+    {
+      "path": "aggregate_reference/density.svg",
+      "bytes": 129354
+    },
+    {
+      "path": "aggregate_reference/distributions.pdf",
+      "bytes": 26438
+    },
+    {
+      "path": "aggregate_reference/distributions.png",
+      "bytes": 104861
+    },
+    {
+      "path": "aggregate_reference/distributions.svg",
+      "bytes": 34938
+    },
+    {
+      "path": "aggregate_reference/gallery-data.json",
+      "bytes": 806172
+    },
+    {
+      "path": "aggregate_reference/index.html",
+      "bytes": 824219
+    },
+    {
+      "path": "aggregate_reference/phase-and-trajectories.pdf",
+      "bytes": 35031
+    },
+    {
+      "path": "aggregate_reference/phase-and-trajectories.png",
+      "bytes": 109982
+    },
+    {
+      "path": "aggregate_reference/phase-and-trajectories.svg",
+      "bytes": 39599
+    },
+    {
+      "path": "aggregate_reference/quantile-bins.pdf",
+      "bytes": 33972
+    },
+    {
+      "path": "aggregate_reference/quantile-bins.png",
+      "bytes": 158495
+    },
+    {
+      "path": "aggregate_reference/quantile-bins.svg",
+      "bytes": 38139
+    },
+    {
+      "path": "aggregate_reference/relative-vs-absolute.pdf",
+      "bytes": 27066
+    },
+    {
+      "path": "aggregate_reference/relative-vs-absolute.png",
+      "bytes": 152150
+    },
+    {
+      "path": "aggregate_reference/relative-vs-absolute.svg",
+      "bytes": 145496
+    },
+    {
+      "path": "aggregate_reference/reverse-bins.pdf",
+      "bytes": 21012
+    },
+    {
+      "path": "aggregate_reference/reverse-bins.png",
+      "bytes": 73959
+    },
+    {
+      "path": "aggregate_reference/reverse-bins.svg",
+      "bytes": 12657
+    },
+    {
+      "path": "aggregate_reference/signals.csv",
+      "bytes": 615336
+    },
+    {
+      "path": "aggregate_reference/sparsification.pdf",
+      "bytes": 31832
+    },
+    {
+      "path": "aggregate_reference/sparsification.png",
+      "bytes": 102556
+    },
+    {
+      "path": "aggregate_reference/sparsification.svg",
+      "bytes": 15202
+    },
+    {
+      "path": "aggregate_reference/trajectory-01.pdf",
+      "bytes": 29680
+    },
+    {
+      "path": "aggregate_reference/trajectory-01.png",
+      "bytes": 103010
+    },
+    {
+      "path": "aggregate_reference/trajectory-01.svg",
+      "bytes": 34148
+    },
+    {
+      "path": "aggregate_reference/trajectory-05.pdf",
+      "bytes": 28764
+    },
+    {
+      "path": "aggregate_reference/trajectory-05.png",
+      "bytes": 92658
+    },
+    {
+      "path": "aggregate_reference/trajectory-05.svg",
+      "bytes": 32356
+    },
+    {
+      "path": "aggregate_reference/trajectory-07.pdf",
+      "bytes": 30140
+    },
+    {
+      "path": "aggregate_reference/trajectory-07.png",
+      "bytes": 103698
+    },
+    {
+      "path": "aggregate_reference/trajectory-07.svg",
+      "bytes": 34290
+    },
+    {
+      "path": "aggregate_reference/trajectory-09.pdf",
+      "bytes": 28783
+    },
+    {
+      "path": "aggregate_reference/trajectory-09.png",
+      "bytes": 93759
+    },
+    {
+      "path": "aggregate_reference/trajectory-09.svg",
+      "bytes": 32353
+    },
+    {
+      "path": "aggregate_reference/trajectory-11.pdf",
+      "bytes": 29320
+    },
+    {
+      "path": "aggregate_reference/trajectory-11.png",
+      "bytes": 99636
+    },
+    {
+      "path": "aggregate_reference/trajectory-11.svg",
+      "bytes": 33325
+    },
+    {
+      "path": "aggregate_reference/trajectory-13.pdf",
+      "bytes": 28709
+    },
+    {
+      "path": "aggregate_reference/trajectory-13.png",
+      "bytes": 97853
+    },
+    {
+      "path": "aggregate_reference/trajectory-13.svg",
+      "bytes": 33296
+    },
+    {
+      "path": "aggregate_reference/trajectory-18.pdf",
+      "bytes": 28942
+    },
+    {
+      "path": "aggregate_reference/trajectory-18.png",
+      "bytes": 96689
+    },
+    {
+      "path": "aggregate_reference/trajectory-18.svg",
+      "bytes": 32448
+    },
+    {
+      "path": "aggregate_reference/trajectory-24.pdf",
+      "bytes": 28728
+    },
+    {
+      "path": "aggregate_reference/trajectory-24.png",
+      "bytes": 100329
+    },
+    {
+      "path": "aggregate_reference/trajectory-24.svg",
+      "bytes": 33351
+    },
+    {
+      "path": "aggregate_reference/trajectory-25.pdf",
+      "bytes": 27213
+    },
+    {
+      "path": "aggregate_reference/trajectory-25.png",
+      "bytes": 86771
+    },
+    {
+      "path": "aggregate_reference/trajectory-25.svg",
+      "bytes": 30670
+    },
+    {
+      "path": "aggregate_reference/trajectory-27.pdf",
+      "bytes": 29749
+    },
+    {
+      "path": "aggregate_reference/trajectory-27.png",
+      "bytes": 101457
+    },
+    {
+      "path": "aggregate_reference/trajectory-27.svg",
+      "bytes": 33285
+    },
+    {
+      "path": "aggregate_reference/trajectory-28.pdf",
+      "bytes": 29395
+    },
+    {
+      "path": "aggregate_reference/trajectory-28.png",
+      "bytes": 103542
+    },
+    {
+      "path": "aggregate_reference/trajectory-28.svg",
+      "bytes": 33513
+    },
+    {
+      "path": "aggregate_reference/trajectory-31.pdf",
+      "bytes": 28341
+    },
+    {
+      "path": "aggregate_reference/trajectory-31.png",
+      "bytes": 92379
+    },
+    {
+      "path": "aggregate_reference/trajectory-31.svg",
+      "bytes": 32435
+    },
+    {
+      "path": "aggregate_reference/trajectory-statistics.csv",
+      "bytes": 5586
+    },
+    {
+      "path": "aggregate_reference/within-block.pdf",
+      "bytes": 36416
+    },
+    {
+      "path": "aggregate_reference/within-block.png",
+      "bytes": 229310
+    },
+    {
+      "path": "aggregate_reference/within-block.svg",
+      "bytes": 198027
+    },
+    {
+      "path": "slot25/curves.pdf",
+      "bytes": 34993
+    },
+    {
+      "path": "slot25/curves.png",
+      "bytes": 174372
+    },
+    {
+      "path": "slot25/curves.svg",
+      "bytes": 27043
+    },
+    {
+      "path": "slot25/episode-h264.mp4",
+      "bytes": 229810
+    },
+    {
+      "path": "slot25/episode-original.mp4",
+      "bytes": 449419
+    },
+    {
+      "path": "slot25/frame-01-000.png",
+      "bytes": 30220
+    },
+    {
+      "path": "slot25/frame-02-022.png",
+      "bytes": 33126
+    },
+    {
+      "path": "slot25/frame-03-039.png",
+      "bytes": 39691
+    },
+    {
+      "path": "slot25/frame-04-066.png",
+      "bytes": 51394
+    },
+    {
+      "path": "slot25/frame-05-097.png",
+      "bytes": 53452
+    },
+    {
+      "path": "slot25/frame-06-121.png",
+      "bytes": 51985
+    },
+    {
+      "path": "slot25/frame-07-139.png",
+      "bytes": 52390
+    },
+    {
+      "path": "slot25/frame-08-150.png",
+      "bytes": 53407
+    },
+    {
+      "path": "slot25/frame-09-177.png",
+      "bytes": 51917
+    },
+    {
+      "path": "slot25/frame-10-197.png",
+      "bytes": 43932
+    },
+    {
+      "path": "slot25/frame-11-219.png",
+      "bytes": 41738
+    },
+    {
+      "path": "slot25/frame-12-243.png",
+      "bytes": 42089
+    },
+    {
+      "path": "slot25/frame_map.json",
+      "bytes": 75554
+    },
+    {
+      "path": "slot25/index.html",
+      "bytes": 7121
+    },
+    {
+      "path": "slot25/late-zoom.pdf",
+      "bytes": 33946
+    },
+    {
+      "path": "slot25/late-zoom.png",
+      "bytes": 127349
+    },
+    {
+      "path": "slot25/late-zoom.svg",
+      "bytes": 21387
+    },
+    {
+      "path": "slot25/page-preview.png",
+      "bytes": 33422
+    },
+    {
+      "path": "slot25/selected.json",
+      "bytes": 146278
+    },
+    {
+      "path": "slot25/signal-and-12-frames.pdf",
+      "bytes": 677301
+    },
+    {
+      "path": "slot25/signal-and-12-frames.png",
+      "bytes": 950527
+    },
+    {
+      "path": "slot25/signal-and-12-frames.svg",
+      "bytes": 911781
+    },
+    {
+      "path": "slot25/signals.csv",
+      "bytes": 10584
+    },
+    {
+      "path": "slot25/slot25.drawio",
+      "bytes": 763055
+    },
+    {
+      "path": "source/build_slot25.py",
+      "bytes": 9301
+    },
+    {
+      "path": "source/export_slot.py",
+      "bytes": 3165
+    },
+    {
+      "path": "source/noise_samples.py",
+      "bytes": 2988
+    },
+    {
+      "path": "source/signal_math.py",
+      "bytes": 12382
+    },
+    {
+      "path": "source/teacher_shadow.py",
+      "bytes": 2369
+    },
+    {
+      "path": "slot25/raw/control.jsonl",
+      "bytes": 517422
+    },
+    {
+      "path": "slot25/raw/observation_000.npz",
+      "bytes": 96260
+    },
+    {
+      "path": "slot25/raw/observation_001.npz",
+      "bytes": 150925
+    },
+    {
+      "path": "slot25/raw/observation_002.npz",
+      "bytes": 178655
+    },
+    {
+      "path": "slot25/raw/observation_003.npz",
+      "bytes": 175332
+    },
+    {
+      "path": "slot25/raw/observation_004.npz",
+      "bytes": 161166
+    },
+    {
+      "path": "slot25/raw/q000_s25_controller.npz",
+      "bytes": 72853
+    },
+    {
+      "path": "slot25/raw/q001_s25_controller.npz",
+      "bytes": 71655
+    },
+    {
+      "path": "slot25/raw/q002_s25_controller.npz",
+      "bytes": 72242
+    },
+    {
+      "path": "slot25/raw/q003_s25_controller.npz",
+      "bytes": 72710
+    },
+    {
+      "path": "slot25/raw/q004_s25_controller.npz",
+      "bytes": 72270
+    },
+    {
+      "path": "slot25/raw/query_000.npz",
+      "bytes": 91716
+    },
+    {
+      "path": "slot25/raw/query_001.npz",
+      "bytes": 91816
+    },
+    {
+      "path": "slot25/raw/query_002.npz",
+      "bytes": 91789
+    },
+    {
+      "path": "slot25/raw/query_003.npz",
+      "bytes": 91846
+    },
+    {
+      "path": "slot25/raw/query_004.npz",
+      "bytes": 91689
+    },
+    {
+      "path": "slot25/raw/selection.json",
+      "bytes": 3184
+    }
+  ]
+}
