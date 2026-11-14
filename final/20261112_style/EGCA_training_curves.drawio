@@ -861,25 +861,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p1_legend" parent="1" style="rounded=0;fillColor=#FFFFFF;strokeColor=#C8C8C8;strokeWidth=1.1;" value="" vertex="1">
-          <mxGeometry height="117" width="385.7878453038674" x="816.2121546961325" y="429" as="geometry" />
+          <mxGeometry height="117" width="417.7878453038674" x="784.2121546961325" y="429" as="geometry" />
         </mxCell>
         <mxCell id="p1_ll0" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;dashed=1;fixDash=1;dashPattern=12 7;strokeColor=#8EA7CB;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="828.2121546961325" y="462.25" as="sourcePoint" />
-            <mxPoint x="868.2121546961325" y="462.25" as="targetPoint" />
+            <mxPoint x="796.2121546961325" y="462.25" as="sourcePoint" />
+            <mxPoint x="836.2121546961325" y="462.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p1_lt0" parent="1" style="whiteSpace=nowrap;fontSize=42;align=left;verticalAlign=middle;spacing=0;fontFamily=DVCAChalkboardUnion;html=1;overflow=visible;strokeColor=none;fillColor=none;fontColor=#171717;" value="&lt;font face=&quot;ChalkboardFull&quot;&gt;π&lt;sub style=&quot;font-size:70%&quot;&gt;0.5&lt;/sub&gt;&lt;/font&gt; + Filter BC" vertex="1">
-          <mxGeometry height="52.5" width="312.7878453038674" x="881.2121546961325" y="436" as="geometry" />
+        <mxCell id="p1_lt0" parent="1" style="whiteSpace=nowrap;fontSize=42;align=left;verticalAlign=middle;spacing=0;fontFamily=DVCAChalkboardUnion;html=1;overflow=visible;strokeColor=none;fillColor=none;fontColor=#171717;" value="&lt;font face=&quot;ChalkboardFull&quot;&gt;π&lt;sub style=&quot;font-size:70%&quot;&gt;0.5&lt;/sub&gt;&lt;/font&gt; + Filtered BC" vertex="1">
+          <mxGeometry height="52.5" width="344.7878453038674" x="849.2121546961325" y="436" as="geometry" />
         </mxCell>
         <mxCell id="p1_ll1" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;strokeColor=#FF7F0E;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="828.2121546961325" y="514.75" as="sourcePoint" />
-            <mxPoint x="868.2121546961325" y="514.75" as="targetPoint" />
+            <mxPoint x="796.2121546961325" y="514.75" as="sourcePoint" />
+            <mxPoint x="836.2121546961325" y="514.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p1_lt1" parent="1" style="whiteSpace=nowrap;fontSize=42;align=left;verticalAlign=middle;spacing=0;fontFamily=DVCAChalkboardUnion;html=1;overflow=visible;strokeColor=none;fillColor=none;fontColor=#171717;" value="w/ EGCA-Sup" vertex="1">
-          <mxGeometry height="52.5" width="312.7878453038674" x="881.2121546961325" y="488.5" as="geometry" />
+          <mxGeometry height="52.5" width="344.7878453038674" x="849.2121546961325" y="488.5" as="geometry" />
         </mxCell>
         <mxCell id="p1_xtick5" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=0.9058767535306477;strokeColor=#171717;">
           <mxGeometry relative="1" as="geometry">
@@ -3180,7 +3180,7 @@
         <mxCell id="p7_yt4" parent="1" style="text;html=1;whiteSpace=nowrap;overflow=visible;spacing=0;align=right;verticalAlign=middle;fontFamily=VGPOMath;fontSize=44;strokeColor=none;fillColor=none;fontColor=#171717;" value="0.8" vertex="1">
           <mxGeometry height="56" width="64" x="1248" y="634.647059" as="geometry" />
         </mxCell>
-        <mxCell id="p7_curve_EXPO_14" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#8F9396;dashed=0;">
+        <mxCell id="p7_curve_EXPO_14" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#8F9396;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1327.4814814814815" y="876.3023462108392" />
@@ -3456,7 +3456,7 @@
             <mxPoint x="1794" y="753.882071539469" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7_curve_EXPO_15" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=16 5 3 5;strokeColor=#78B2AB;dashed=0;">
+        <mxCell id="p7_curve_EXPO_15" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#78B2AB;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1327.4814814814815" y="890.2842356546743" />
@@ -3732,7 +3732,7 @@
             <mxPoint x="1794" y="796.23884191037" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7_curve_EXPO_21" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=3 7;strokeColor=#B19AC8;dashed=0;">
+        <mxCell id="p7_curve_EXPO_21" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#B19AC8;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1327.4814814814815" y="838.2586225076325" />
@@ -4008,7 +4008,7 @@
             <mxPoint x="1794" y="822.351997884814" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7_curve_EXPO_23" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=16 5 3 5 3 5;strokeColor=#D1B447;dashed=0;">
+        <mxCell id="p7_curve_EXPO_23" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#D1B447;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1327.4814814814815" y="851.916077752038" />
@@ -4572,7 +4572,7 @@
         <mxCell id="p7_lt0" parent="1" style="text;html=1;whiteSpace=nowrap;overflow=visible;spacing=0;align=left;verticalAlign=middle;fontFamily=DVCAChalkboardUnion;fontSize=42;strokeColor=none;fillColor=none;fontColor=#171717;" value="Ours" vertex="1">
           <mxGeometry height="52" width="231" x="1501" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="p7_ll1" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#8F9396;dashed=0;">
+        <mxCell id="p7_ll1" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#8F9396;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1448" y="940" as="sourcePoint" />
             <mxPoint x="1488" y="940" as="targetPoint" />
@@ -4581,7 +4581,7 @@
         <mxCell id="p7_lt1" parent="1" style="text;html=1;whiteSpace=nowrap;overflow=visible;spacing=0;align=left;verticalAlign=middle;fontFamily=DVCAChalkboardUnion;fontSize=42;strokeColor=none;fillColor=none;fontColor=#171717;" value="Low Entropy" vertex="1">
           <mxGeometry height="52" width="212" x="1501" y="914" as="geometry" />
         </mxCell>
-        <mxCell id="p7_ll2" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=16 5 3 5;strokeColor=#78B2AB;dashed=0;">
+        <mxCell id="p7_ll2" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#78B2AB;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1448" y="984" as="sourcePoint" />
             <mxPoint x="1488" y="984" as="targetPoint" />
@@ -4590,7 +4590,7 @@
         <mxCell id="p7_lt2" parent="1" style="text;html=1;whiteSpace=nowrap;overflow=visible;spacing=0;align=left;verticalAlign=middle;fontFamily=DVCAChalkboardUnion;fontSize=42;strokeColor=none;fillColor=none;fontColor=#171717;" value="Binary Top-q" vertex="1">
           <mxGeometry height="52" width="231" x="1501" y="958" as="geometry" />
         </mxCell>
-        <mxCell id="p7_ll3" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=3 7;strokeColor=#B19AC8;dashed=0;">
+        <mxCell id="p7_ll3" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#B19AC8;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1448" y="1028" as="sourcePoint" />
             <mxPoint x="1488" y="1028" as="targetPoint" />
@@ -4599,7 +4599,7 @@
         <mxCell id="p7_lt3" parent="1" style="text;html=1;whiteSpace=nowrap;overflow=visible;spacing=0;align=left;verticalAlign=middle;fontFamily=DVCAChalkboardUnion;fontSize=42;strokeColor=none;fillColor=none;fontColor=#171717;" value="w/o Annealing" vertex="1">
           <mxGeometry height="52" width="280" x="1501" y="1002" as="geometry" />
         </mxCell>
-        <mxCell id="p7_ll4" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=16 5 3 5 3 5;strokeColor=#D1B447;dashed=0;">
+        <mxCell id="p7_ll4" edge="1" parent="1" style="edgeStyle=none;noEdgeStyle=1;rounded=0;endArrow=none;startArrow=none;strokeWidth=6.5;fixDash=1;dashPattern=12 7;strokeColor=#D1B447;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1448" y="1072" as="sourcePoint" />
             <mxPoint x="1488" y="1072" as="targetPoint" />
